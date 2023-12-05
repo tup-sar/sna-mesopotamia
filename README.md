@@ -3,6 +3,10 @@
 
 This repository contains four scripts I developed to retrieve and treat prosopographical information from the documents of the Old Babylonian set of documents, the so-called archive of Nūr-Šamaš, with the goal of disambiguating personal names and identifications. 
 
+If you want to run it in your machine, create a folder to receive the project. In that folder, create subfolders "Python_Notebooks", "Processing_Input", and "Processing_Output". 
+
+In each script, there are variables to receive the run date of the script. At some point, I'll probably automate this, but for the moment this must be alteres manually. I'm so sorry for the inconvenience. 
+
 The work was developed as a research project funded by the São Paulo State Foundation (grant number 2021/01363-6), active from October 1, 2021, to September 30, 2023. 
 The work on the scripts began in 2016, when I was a fellow at the Paris Institute for Advanced Study (2016-2017). 
 Three papers were published that use the scripts (or the previous version of them) in this repository:
