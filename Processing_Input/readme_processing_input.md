@@ -1,1 +1,1 @@
-
+This directoty contains the files that are used for input in the process seen as a whole (the application of the four Python scripts in the Python Notebooks directory). Note that the scripts may also use as an input file some file produced as output by another script.
