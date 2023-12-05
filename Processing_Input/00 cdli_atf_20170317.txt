@@ -1,0 +1,3859 @@
+&P223118 = TIM 03, 001 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(disz) gin2 ku3-babbar_
+2. _masz2 {d}utu_ u2-s,a-ab 
+3. _ki_ *nu-ur2-{d}utu* 
+4. _dumu_ *ku-bi-ia* 
+5. {disz}*ma-szum* 
+6. _dumu_ *za-na-tim* 
+7. _szu# ba#-[an]-ti#_ 
+@reverse 
+1. [a-na] _masz#-gan2_-nim# 
+2. _ku3#_ u3 _masz2-bi_ 
+3. _i3-la2-e_ 
+4. _igi_ *mu-na#-nu-um* 
+5. _igi_ *sin-sze-me-e#* 
+6. _igi_ *sin-da-di#-ia#* 
+7. _igi_ *ARAD-di#?-ia#* 
+8. _mu dumu-munus# [eresz]-dingir#_ sza x-x u3 sza {d}iszkur i-ba-ra-a 
+# signs x-x over erasure? 
+
+&P223119 = TIM 03, 002 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _7(disz) gin2 ku3-babbar_ 
+2. _masz2 {d}utu_ 
+3. u2-s,a-ab
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*en-nam-{d}tiszpak* 
+6. _szu ba-an-ti_ 
+7. a-na _masz-gan2_-nim 
+8. _ku3-babbar_ u3 _masz2-bi_ 
+9. _i3-la2-e_ 
+@reverse 
+1. _igi#_ *[{d}]suen#-ka#-[szi-id]*  
+2. _dumu#_ *{d}[...]-x-ar#?-bi#* 
+3. [{disz}*i3]-li2#-szu-ba-ni*
+4. {disz}*{d}suen-ga-mil* _lu2-nu-hu-um_   
+5. {disz}*{d}nanna-ma-an-szum2* _dub-sar_  
+6. _mu dumu-munus lugal_ in-na-szi
+
+
+&P223120 = TIM 03, 003 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. [n _gin2 ku3-babbar_] 
+2. _masz2# [{d}utu_] 
+3. u2#-[s,a-ab] 
+4. _ki_ *nu-[ur2-{d}utu]*  
+5. {disz}*{d}x-[...]* 
+6. _dumu_ *a-zu-[...]* 
+7. _szu ba-an-[ti]_ 
+8. i-na ma-asz#?-[ka?-nim?] 
+9. _i3-la2-e_ 
+@reverse 
+1. _igi_ *zi-ia-tim* 
+2. _dumu_ *pu-tum* 
+3. _igi_ *na-bi-{d}en-lil2* 
+4. _dumu_ *puzur4-{d}nu-musz#-[da]* 
+5. _igi_ *a-hu-um* 
+6. _dumu_ *ru-ba-tum* 
+7. _igi_ *isz-me-[x x]* 
+8. _dumu_ *{d}utu-sipa#* 
+9. _igi_ *ka#?-[...]* 
+@left 
+1. _[mu i7]_ sin-a-bu-um ih-ru-u2 
+
+
+&P223121 = TIM 03, 004 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3 3(disz) gin2 ku3-babbar_ 
+2. _masz2_ {d}utu u2-s,a-ab 
+3. _ki_ *nu-ur2-{d}utu* 
+4. _dumu_ *ku-bi-ia*  
+5. {disz}*ku#-ba-tum#* 
+6. _dumu-munus_ *x-x-x-x-x-nu* 
+7. _szu ba-an-ti_ 
+8. _a-na_ masz-[gan2]-nim# 
+9. _[ku3-babbar]_ u3# _masz2-bi_ 
+10. _[i3]-la2#-e_ 
+@reverse 
+1. _igi_ *ba-{d}suen* 
+2. _dumu_ *hu-sza-szum* 
+3. _igi_ *ar-szi-hu-um* 
+4. _dumu_ *i3-li2-a-PI?-a* 
+5. _igi_ *sza-ma-ia* 
+6. _dumu_ *sin-re-me-ni* 
+7. _igi_ *sin-sze-me-e-i*  
+8. _dumu_ *i3-li2-isz!-ra!-an-ni*
+9. sza-ni-tum 
+10. _mu_ sza sin-a-bu-szu [na-ra]-am# u2#-sze#-eh-ru-u2 
+
+
+&P223122 = TIM 03, 005 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(u) 5(disz) gin2# ku3-babbar_ 
+2. _masz2-bi_ {d}utu 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. _dumu_ *ku-bi-ia* 
+6. {d}*suen-ma-gir* 
+7. _szu ba-an-ti!_ 
+8. a-na _iri_ ki-nu-nu 
+9. _ku3-babbar_ u3 _masz2-bi_ 
+10. _i3#-[la2-e]_ 
+@reverse 
+1. _igi_ *sin-i#-[qi2-sza-am]*  
+2. _dumu_ *a#-da#-[ia]*
+3. _igi_ *e?-[ri-ba-am]* 
+4. _dumu#_ *a#-[...]-x* 
+5. _igi_ *[...]-x-ni* 
+6. _dumu_ *[...]* 
+7. _igi_ *[...]-{d}utu#* 
+8. _dumu_ *a-li2-PA#-AN#?*
+9. u3# *u-bar-{d}utu* _dub-sar_  
+10. _mu_ ha-la-x-x-x [(x)] ru-bu-um is,-ba-tu 
+# Reschid reads: ha-la-bi#-it#{[ki]} 
+
+
+&P223123 = TIM 03, 006 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(disz)# 1/3(disz) ma-na ku3-babbar_ 
+2. _masz2_ {d}utu# 
+3. u2-s,a-ab 
+4. _ki_ {disz}*nu-ur2#-{d#}utu* _dumu_ *ku-bi-[ia]* 
+5. {disz}*{d}suen-ma#-[gir] (x)* _dumu_ *ia-ah-[su-ur]-dingir#* 
+6. *[x]-ni-sza-at-[x x]* _dam-[a-ni]_ 
+$ rest broken 
+@reverse 
+$ beginning broken 
+1'. [...] x [x (x)] 
+2'. [...]-ap#?-li-[x] 
+3'. [...]-tup#?-szu-nu 
+4'. [...]-qa-qum  
+5'. [...]-x-ak#?-za-tum  
+6'. [_igi_] {d}*utu-ga-mil* _dumu_ *ki-ma-a-hi-ia* 
+7'. _igi#_ *mi-il-ki-{d}iszkur* _dumu_ *nu-ur2-i3-li2-szu*  
+8'. {disz}*{d}nanna-ma-an-szum2* _dub-sar_ 
+9'. _mu bad3_ ne-re-eb-tum   
+
+
+&P223124 = TIM 03, 007 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3 5(disz) gin2 ku3-babbar_ 
+2. _masz2_ {d}utu# u2-s,a-ab 
+3. _ki_ *nu-ur2-{d#}utu* 
+4. _dumu_ *ku-bi-ia* 
+5. {disz}*am-ti-la!-ba* 
+6. u3 *la-ma-sa3-tum* _dam-a-ni_ 
+7. _szu ba-an-ti-mesz_ 
+@reverse 
+1. a-na _masz-gan2_-nim 
+2. _ku3-babbar_ u3 _masz2-bi_ 
+3. _i3-la2-e!-mesz_ 
+4. _igi_ *bi2-qa2-ta-nu-um#* 
+5. _igi_ *u2-tu-ia* 
+6. _igi_ *i-pi2-iq-sza* 
+7. _iti_ ki-ri-ti 
+
+
+&P223125 = TIM 03, 008 
+#atf lang akk 
+@tablet 
+@obverse 
+1. _8(disz) gin2# ku3-babbar_ 
+2. _masz2#_ {d#}utu# u2-s,a-ab  
+3. [_ki_ *nu]-ur2-{d}utu* 
+4. [{disz}*mu-na-wi]-ru#-um* 
+5. [_dumu_ *...]-x* 
+6. _[szu ba-an-ti]_  
+7. [a-na _masz-gan2_]-nim 
+8. [_ku3-babbar_ u3] _masz2#-bi_ 
+9. _[i3-la2-e]_ 
+@reverse 
+1. _igi_ *sin-a#-su* _aga#-us2#_ 
+2. _igi_ *be-el-szu-nu* 
+3. _dumu_ *me-ra-nu-um*  
+4. _igi_ *sin-im-ma-tim*  
+5. _dumu_ *a-pil-sin* 
+6. _igi_ *a-hu-um-mi-szu#* 
+7. _dumu_ *me-ra-nu-um#*  
+8a. _igi_ *ARAD#-{d#}mar#-tu#* 
+8b. _dumu_ *i-lu!-da-na-an#* 
+# line 8b added on the envelope
+9. _igi_ *e-te-el-pi4-sin*  
+
+&P223126 = TIM 03, 009 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _3(disz) gin2 ku3-babbar_ 
+2. _masz2_ {d}utu u2-s,a-ab 
+3. _ki_ *nu-ur2-{d}utu* 
+4. {disz}*sin-be-el-i3-li2* 
+5. _dumu_ *ne-ri-ib-da#?-ni?-na#?*
+6. _szu ba-an-ti_ 
+7. a-na _masz-gan2_-nim 
+8. _ku3-babbar_ u3 _masz2-bi_ 
+@reverse 
+1. _i3-la2-e_ 
+2. _igi_ *nu-ur2-{d}utu* gu-ga-lim 
+3. _igi_ *sin-na-s,ir* _nu-{gesz}kiri6_ 
+4. _igi_ *ip-qu2-na-ri* 
+5. _dumu_ *ba-ni-ia* 
+6. _igi_ *t,a3-ab-s,i2-la-szu* 
+7. _dumu_ *sza-al-ti* 
+
+
+&P223127 = TIM 03, 010 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(u) gin2 ku3-babbar_ 
+2. _masz2_ {d}utu 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur-{d}utu* 
+5. _dumu_ *ku-bi-ia* 
+6. {disz}*s,i2-la-sza* 
+7. _dumu_ *su-ka-lim* 
+8. _szu ba-an-ti_ 
+@reverse 
+1. a-na _masz-gan2_-nim 
+2. _ku3_-am u3 _masz2-bi_ 
+3. _i3-la2-e_ 
+# LA2 written over erasure 
+4. _igi_ *bur-{d}suen#* 
+5. _igi_ *dingir-lam-li-t,ul*  
+6. _igi_ *i3-li2-a-at-ka* 
+7. _igi_ *sin-ga-mil* 
+8. _igi_ *sin-i#-qi2#-sza#-am* 
+9. [x x] x ba UD x [x] 
+# line 9 added on the envelope 
+
+&P223128 = TIM 03, 011 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1/2(disz) gin2 ku3-babbar 1(u) 8(disz) sze_ 
+2. _masz2_ {d}utu u2-s,a-ab 
+3. _ki_ *nu-ur2-{d}utu* 
+4. *[...]-x* 
+$ 3 lines broken 
+@reverse 
+1. _i3-la2-e_ 
+2. _igi_ *a-hu-wa-qar* 
+@env
+2. _dumu_ *pu-zu-ru-um* 
+# line 2b added on envelope 
+@reverse
+3. _igi_ *ARAD-sin*  
+4. _igi_ *ab-de-ra-ah* 
+5. _igi_ *i-qa-ad-i3-li2* 
+@seal 1 
+1. {d}utu 
+2. {d}a-a 
+
+&P223129 = TIM 03, 012 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. _9(asz) gur <sze> ur5-ra_ 
+2. _masz2 1(asz) 1(barig) 4(ban2) gur_ u2-s,a#-ab 
+3. _1(disz) gin2 ku3-babbar_ 
+4. _masz2_ {d}utu u2-s,a-ab 
+5. _ki#_ *nu-ur2-{d}utu* 
+6. _dumu#_ *ku-bi-ia* 
+7. {disz}*sin-i-qi2-sza-am* 
+# envelope has {disz}{d}suen-... 
+8. u3# *szi-ma-at-nu!-nu-um#?* 
+9. _[szu] ba#-an!-ti!-esz?_ 
+# envelope has ...-ti-mesz
+10. [a]-na# _masz-gan2_-nim 
+11. [_sze_]-am u3 _masz2_ u3 _ku3_ 
+12. u3# _masz2 i3-ag2-e_ 
+@reverse 
+1. u3_ i3-la2-e_ 
+2. igi *mu-na-wi-rum* 
+#2a. envelope adds _lu2_ x [...] 
+3. _dumu_ *sa-ma-ia* 
+4. {disz#?}*qa2-mi-dingir* 
+#_lu2_ x 
+4a. _dumu_ *qa2-bi-il* 
+@reverse
+5. {disz}*dingir-szu-i-bi-szu* dam#-gar3# 
+5a.  _szesz-a-ni_ ma-x 
+@reverse
+6. {disz}*sza-ma-ia-tum* 
+7. _dumu#_ *ba-e2-a* 
+8. {disz}*sin-ib-ni-i-szu* _dub-sar_ 
+9. _mu# us2#-sa#_ sza# _dumu-munus-mesz# lugal_ ib-ru-u2 
+# envelope has _mu dumu-munus-mesz lugal i#-na-x-x_ 
+
+
+&P223130 = TIM 03, 013
+#atf" lang akk 
+@tablet 
+@obverse 
+1. _[n gur sze ur5]-ra#_ 
+2. _[masz2 1(asz) gur 1(barig) 4(ban2)] sze#_ 
+3. _[n gin2 ku3]-babbar#_  
+4. [_masz2_ {d}]utu#  
+5. [u2-s,a]-ab#? 
+6. [_ki_ *nu-ur2-{d}]utu*# 
+7. [{disz}*x x x x]-sza-x*
+8. _dumu_ *x-x-x-um#?* 
+9. _szu# ba-an-ti#_ 
+10. a-na _masz-gan2#_-nim# 
+11. _sze_-am u3# _masz2#-bi#_ 
+@reverse 
+1. _i3-ag2-e#_ 
+2. _ku3-babbar_ u3 _masz2-bi_ 
+3. _i3-la2-e_ 
+4. _igi_ *ba-{d}suen*  
+5. _dumu_ *hu-sza-szum*  
+6. _igi_ *sin-i-din-nam* 
+# envelope reads: *{d}suen-i-din-nam* 
+7. _dumu_ *nu-ur2-{d}utu*   
+$ blank space 
+8. sza-ni-tum _mu_ 
+9. sza sin-a-bu-szu 
+10. [na-ra-am u2-sze]-eh#-ru 
+# envelope writes 8-10 as:
+# sza-ni-tum _mu_ sza 
+# {d}suen-a-bu-szu 
+# na-ra-am u3-sze-eh-ru 
+@seal 1
+$ (not copied) 
+
+&P223131 = TIM 03, 014 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(u) 4(asz) 2(barig) 3(ban2) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur_-um _1(barig) 4(ban2) sze_ _u2-s,a#-ab# 
+3. _1(u) gin2 ku3-babbar masz2_ {d}utu 
+4. u2-s,a-ab 
+5. _ki_ *nu-ur2-{d}utu* _dumu_ *ku-bi-ia* 
+6. {disz}*inim-{d}nin-a-zu* 
+7. _dumu_ *sza-dingir* 
+8. _szu ba-an-ti_ 
+9. a-na _masz-gan2_-nim 
+10. _sze_-am u3 _masz2-bi_ 
+11. _i3-ag2-e_ 
+@reverse 
+$ (lines 1-12 preserved on the envelope:)  
+1. u3# _ku3-babbar_ u3 _masz2-bi_  
+2. _i3-la2-e_ 
+3. _igi_ *sin-ga-mi-il* 
+4. _dumu_ *szu-ka-li-im* 
+5. _igi_ *ad-ma-ti-i3-li2*  
+6. _dumu_ *i-s,ur#-ri#-ia* 
+7. *{d}nanna-ma-an-szum2* 
+8. _dumu_ *{d}nin-szubur#-[ba-ni]* 
+9. _igi_ *{d}suen-[i-din-nam]* 
+10. _dumu_ *nu-ur2-{d#}utu#* 
+11. _mu usz2-sa_ {d}szul-gi-na{ki} 
+12. sin-[a]-bu#-szu isz#-ku#-nu# 
+$ (line 12 also preserved on the tablet:)
+# sin#-[a-bu-szu] isz#!-ku#-nu#
+
+
+&P223132 = TIM 03, 015 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(disz) gin2 ku3-babbar_ 
+2. _masz2_ {d}utu u2-s,a-ab 
+3. _ki_ *nu-ur2-{d}utu* 
+4. {disz}*na-bi-i3-li2-szu* 
+5. u3 *szi-ni#-bu-tum#* _dam#-a-ni_ 
+6. _[szu ba-an]-ti#_ 
+7. [a-na _masz-gan2_]-nim 
+8. [_ku3-babbar_ u3 _masz2]-bi#!?_ 
+9. _i3-la2-e-mesz_ 
+@reverse 
+1. u3 _1(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2)!_ u2-s,a-ab 
+3. a-na _masz-gan2_-nim 
+4. _sze_-am u3 _masz2-bi_ 
+5. _i3-ag2-e_ 
+6. _igi_ *i3-li2-a-su2-ni* 
+7. _dumu_ *i3-li2-pu-zur* 
+8. _igi_ *ip-qu2-sza!* 
+9. _dumu_ *{d}iszkur-i-din!-nam* 
+@left 
+1. _igi_ *sin-ga-mil* _dumu_ *su-ka-lu*
+
+
+&P223133 = TIM 03, 016 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze-ta_ 
+3. u2-s,a-ab 
+4. _2(disz) gin2 ku3-babbar masz2_ {d}utu 
+5. u2-s,a-ab 
+6. _ki_ *nu-ur2-{d}utu* 
+7. {disz}*nu-ru-bu-um* 
+8. u3 *na-na-a-am*  
+9. _szu# ba-an-ti_ 
+10. [a-na] _masz#-gan2_-nim 
+@reverse 
+1. [_sze_-am] u3 _masz2-bi_ 
+2. [_ku3-babbar_] u3 _masz2-bi_ 
+3. _i3#-ag2-e!_ 
+# (envelope adds after rev. 3:) 
+@env
+3a. _igi_ *sin-pu-ut-ra-am#* 
+4a. _dumu_ *ku-zu-lu-um* 
+@reverse
+4. _igi_ *u2-tu-ia* 
+5. _igi_ *ARAD2-sin* _dumu_ *gu-ri-ia* 
+6. _igi_ *sin-i-qi2-sza-am* 
+7. _dumu_ *a-wi-il-dingir* 
+8. _igi_ *pa-lu-um* 
+9. _igi_ *nu-pa-nu-um* 
+@seal 1 
+$ (not copied) 
+
+&P223134 = TIM 03, 017 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. [_n gin2 ku3-babbar_] 
+2. _masz2#_ {[d]}utu# [u2-s,a-ab] 
+3. _1(asz) gur# sze ur5-ra#_ 
+4. _masz2 1(asz) gur# 1(barig) 4(ban2)#_ u2-s,a-[ab]
+5. _ki_ *nu-ur2-{d}utu#* 
+6. {disz}*usz-ta-asz-ni-dingir#* 
+7. {disz#}*ku-na-am* _dam-[a-ni]_ 
+8. u3# *mu-na-wi-ir-tum#* 
+9. *[x x] x lum#!-ma#? [x]* 
+10. _[szu ba-an]-ti#-mesz_ 
+@reverse 
+1. a-na _masz-gan2_-nim 
+2. _ku3-babbar_ u3 _masz2-bi_ 
+3. _i3-la2-e_ 
+4. _sze_-am u3 _masz2-[bi]_ 
+5. _i3-ag#-[e]_ 
+6. _igi_ *{d}suen-ma-[gir]* 
+7. _dumu_ *a-wi-il-dingir#* 
+8. _igi_ *sin-i-qi2#-sza#-am#* 
+9. _dumu_ *ba!-[esz18-dar]* 
+10. _igi#_ *il#-szu-[ba-ni]* 
+11. [_dumu_ *x x] nu# [x]* 
+
+
+&P223135 = TIM 03, 018 
+#atf: lang akk
+@tablet 
+@obverse 
+1. _[n] gur# sze# [ur5-ra]_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2)# sze_ 
+3. u2-s,a-ab 
+4. _1(disz) 1/2(disz) gin2 ku3-babbar masz2_ {d}utu 
+5. u2-s,a-ab 
+6. _ki_ *nu-ur2-{d}utu* 
+7. {disz}*sin-ba!-bil* 
+8. _dumu_ *da-bi!-nu-um* 
+9. _szu ba-an-ti_ 
+10. a-na _masz-gan2!_-nim 
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *ni5-id-nu-sza* 
+4. _dumu_ *ri-isz-{d}iszkur* 
+5. _igi_ *[{d}]utu#-ga#-mil* _aszgab_ 
+6. _dumu#_ *[...]-um#* 
+7. [_igi_ *...] IM*   
+8. [...] *x x*  
+9. [...] x
+
+
+&P223136 = TIM 03, 019 
+#atf: lang akk  
+@tablet 
+@obverse 
+1. _2(u) 8(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze#-ta#_ 
+3. u2-s,a-ab 
+4. _1(u) gin2 ku3-babbar masz2_ {d}utu 
+5. u2-s,a-ab 
+6. _ki_ *nu-ur2-{d}utu* 
+7. _dumu_ *ku-bi-ia* 
+8. {disz}*{d}nanna-ma-an-szum2* 
+9. _dumu_ *dingir-lam#-lu-t,u2-ul*
+10. _szu ba-an-ti_ 
+11. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze#_-am# u3 _masz2_ 
+2. _i3#-ag2-e_ 
+3. _[ku3]-babbar#_ u3 _masz2_ 
+4. _[i3]-la2-e_ 
+5. [_igi_ *x x]-ra-ma!* 
+6. [...] x x 
+7. [_igi_] *i3#-li2#-i#-qi2#-sza#* 
+8. [...] 
+9. [...] x 
+
+&P223137 = TIM 03, 020 
+#atf: lang akk 
+@tablet 
+@obverse 
+$ beginning broken 
+1'. *[... na]-s,ir* 
+2'. *[...]-te#-er* 
+@reverse 
+1. _szu ba-an-ti#_ 
+2. a-na _masz-gan2_-[nim] 
+3. _sze_-am u3 _masz2-[bi]_ 
+4. _i3-ag2!-e_ 
+5. _ku3-babbar_ u3 _masz2-bi_ 
+6. _i3-la2-e_ 
+7. _igi_ {d}*a#-ii#-isz#-mu-x*
+8. _dumu_ *dan-an-i3-li2* 
+9. _igi_ {d}*nin-szubur-ba-ni* 
+10. _dumu_ *e-la-a* 
+11. _igi_ *hu-sza-szum* 
+12. _dumu_ *ka-asz2-pu-sza* 
+13. _igi_ *a-pil-sin* 
+14. _dumu_ *ma-ti#-a-ra-ah!-tim#* 
+15. _igi_ *il3#-szu#-i-bi-szu* _dub-sar_ 
+$ (obv. 1'-2' and rev. 1-7 from envelope, rest from tablet) 
+
+
+&P223138 = TIM 03, 021
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3 1(u) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*nu-ur2-dingir* _dub-sar_
+6. _dumu_ *u-bar-rum* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+9. _sze_-am u3 _masz2-bi_ 
+@reverse 
+1. _i3-ag2-e_ 
+2. _igi_ *x-x-ra-bi* _dumu_ *x [x] x* 
+3. _igi_ *i#-qa-ad#-[i3-li2]* 
+4. _dumu_ *sza#-{d#}isz#?-[ha-ra]* 
+5. _igi_ *ARAD#-{d}suen#* 
+6. _dumu#_ *e2?-x-[x x]* 
+7. [_mu_] sin-a-bu-szu# [ma]-ra-ti-szu ib-ru-u16# 
+
+
+&P223139 = TIM 03, 022 
+#atf: lang  
+@tablet 
+@obverse 
+1. _kiszib3 2(asz) 1(barig) 2(ban2) gur sze_ ur5-ra  
+# kiszib3 only on the envelope 
+2. _masz2 1(asz) gur 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*be-el-szu-nu* _lu2_ x-x-(x) 
+6. _szu ba-an-ti_ 
+7. a-na _masz-gan2_-nim 
+8. _sze_-am u3 _masz2-bi_ 
+@reverse 
+1. _i3-la2-e_ 
+2. _igi_ *a-hu-wa-qar#*  
+3. _dumu#_ *pu-zu#-[ru]-um* 
+4. _igi_ *ARAD-sin#*  
+5. _igi_ *ab#-de#-[ra-ah]*  
+6. _igi_ *gu-zu-lu-um* 
+7. _igi_ *i-qa-ad-i3-li2* 
+8. *i-si2-a-szar* 
+9. _mu_ sin-a-bu-szu _lugal dumu-munus_ i-na _bad3# iri_ ri-musz{ki} ib#-[ru]-u16 
+
+&P223140 = TIM 03, 023 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3 1(asz) gur sze ur5-ra_ 
+# kiszib3 only on envelope 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+# sze only on envelope 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*ib-ni-sin* _dub-sar_ 
+# dub-sar only on envelope 
+6. _szu ba-an-ti_ 
+7. a-na _masz-gan2_-nim  
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *ARAD-sin* 
+4. _igi_ *ab-de-ra-ah* 
+5. _igi_ *pu-ul-sa3-tum* 
+6. _igi_ *sin-pu-ut,-ra-am* 
+# the following only on the envelope:
+7. [_mu_ sin-a-bu-szu] _lugal# [dumu-munus-mesz_ i]-na# _bad3# iri#?_ ri#-musz#{ki#}] ib-ru-u16 
+
+
+&P223141 = TIM 03, 024 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3 3(asz) gur sze [ur5-ra]_ 
+2. _masz2 1(asz) gur [1(barig) 4(ban2)]_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*sin-sze-[me-e]* 
+6. [_dumu_ *x x x*] 
+7. [_szu ba-an-ti_] 
+8. [a-na _masz-gan2_-nim] 
+9. [_sze_-am u3 _masz2-bi_] 
+@reverse 
+1. _i3-ag2-e#_
+2. _igi_ *na#-bi-i3-li2-[szu]* 
+3. _dumu_ *na-ar-bi-um#* 
+# envelope reads: -bu-um# 
+4. {disz}*ARAD2-i3-li2-szu* 
+5. _dumu#_ *s,a-ra-ma-nu-um#* 
+6. {disz}*ARAD2-{d}utu* [_dumu?_ {d}]*nanna-ma-[an-szum2]*   
+7. {disz}*aq#-bu-um* 
+8. _mu_ sin-a-bu-szu _dumu-munus-mesz_ i-na _bad3# iri#_ ri#-musz{ki} ib-ru-u1_ 
+
+
+&P223142 = TIM 03, 025 
+#atf: lang akk  
+@tablet 
+@obverse 
+1. _2(u) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur [1(barig)] 4(ban2)# sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*hu-na-nu-um* 
+6. u3 {d}*sze-ru-um-ba-ni* 
+7. _szu ba-an-ti-mesz_ 
+8. a-na _masz-gan2#_-nim 
+9. _sze_-am u3 _masz2#-bi_ 
+@reverse 
+1. _i3-ag2-e-mesz_ 
+2. _igi_ *i-di-ar-ni* 
+3. _igi_ *sin-ga-mil* 
+4. _dumu_ *sin-sze-me* 
+5. _igi_ *u2-s,i2-na-wi-ir* 
+6. _dumu_ {d}*sze-ru-um-da-an* 
+7. _igi_ *e-ri-ba-am* 
+8. _dumu_ *dingir-um-{d}iszkur* 
+9. _mu_ sin-a-bu-szu _dumu-munus-mesz bad3-bad3_ ri-musz{ki} ib-ru-u16 
+
+&P223143 = TIM 03, 026 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3 2(u) gur sze ur5-ra_ 
+# kiszib3 only on the envelope 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze-ta#_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. _dumu_ *ku-bi-ia* 
+6. {disz}*bi2-in-qa2-ta#-nu#-[um]* 
+7. u3 *u2-na-ba-tum* _dam-a#-[ni]_ 
+8. _szu ba-an-ti-mesz_ 
+9. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *u2-tu-ia* 
+4. _igi_ *ia-am-nu-nu-um#* 
+5. _igi_ *sin-pu-ut,-ra-am#* 
+6. _dumu_ *ku-zu-lu-um* 
+7. _igi_ *nu-pa-nu-um* 
+8. _igi_ *s,il2-li2#-sin* _dumu_ *ARAD2#-da#-[ni]* 
+# envelope reads: dumu ARAD2-da-ni 
+9. _mu dumu-munus-mesz_ sin-[a-bu]-szu#] i-na _bad3#_ ri-musz#[{ki}] ib!-ru-u2#-u16 
+# envelope reads: 
+# mu# sin-a-bu-szu# lugal# 
+# [dumu]-munus-mesz i-na [...] 
+@seal 1 
+1. {d}utu 
+2. {d}a-a 
+
+&P223144 = TIM 03, 027 
+#atf: lang  
+@tablet 
+@obverse 
+1. _kiszib3 5(asz) 1(barig) 4(ban2) sze ur5-ra_ 
+# kiszib3 only on the envelope 
+2. _masz2 1(asz) gur 1(barig) 3(ban2)#_ u2-s,a-ab 
+3. _ki_ *nu-ur2-{d}utu* 
+4. {disz}*dingir-lam-li#-t,ul#* 
+5. _dumu#_ *a-hu-ni* 
+6. _szu ba-an-ti_ 
+7. a-na _masz-gan2#_-nim 
+8. _sze_-am u3 _masz2-bi_ 
+@reverse 
+1. _i3-ag2-e_ 
+2. _igi_ *a-hu-um* _dumu#_ *ru-ba#-tum*  
+3. _igi_ *sin-i-qi2-sza-am* 
+4. _dumu_ *sin-e-ri-ba-am* 
+5. _igi_ *ab-de-ra-ah* 
+6. _dumu_ *gu-zu#-lu#* 
+# envelope adds: -um 
+7. _igi_ *i-qa-ad-i3-li2*
+# CG removed an asterisc that CDLI has in the following line: il* 
+8. _igi_ *ig-mi-il-sin* 
+# line 8 only on the envelope 
+9. _mu_ sin-a-bu-szu _lugal! dumu-munus-mesz_ i-na _bad3_ ri-musz{ki} 
+
+
+&P223145 = TIM 03, 028 
+#atf: lang 
+@tablet 
+@obverse 
+1. _kiszib3# 9(asz) gur# sze# ur5-ra_ 
+2. _masz2# 1(asz) gur 1(barig) 4(ban2)_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*ARAD2-sin* 
+6. _dumu_ *sin-a-bu-um* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze_-am u3 _masz2#-[bi]_  
+2. _i3-ag2-e_ 
+3. _igi_ *sin-pu-ut,-ra-am* 
+4. _dumu_ *isz#-i-ra-ah* 
+5. _igi_ *ab-de-ra-ah* 
+6. _dumu_ *gu-zu-lu-um* 
+7. _igi_ *pu-ul-sa3-tum* 
+8. _dumu#_ *ia#?-bu-lu-um* 
+9. [_igi_] *i#-qa#-ad-dingir* 
+# so tablet, envelope writes: -i3-li2 
+10. _dumu#_ *nu-ur2-{d}utu#*  
+11. [_igi_ *x x] x-an-ni#* 
+@left 
+1. _mu_ sin-a-bu-szu _lugal dumu-munus-mesz_ i-na _bad3 iri#_ ri#-[musz{ki} (...)]  
+
+
+&P223146 = TIM 03, 029 
+#atf: lang  
+@tablet 
+@obverse 
+1. _4(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze#_ 
+3. u2-s,a-[ab] 
+4. _ki_ *nu-ur2#-[{d}utu]* 
+5. {disz}*mu-na-wi#-[rum]*  
+6. _dumu_ *za-zu#-[um?]* 
+7. _szu ba-an-[ti]_ 
+8. a-na _masz-gan2#_-[nim] 
+9. _sze_-am u3# _masz2#-bi#_ 
+@reverse 
+1. _i3-ag2-e_ 
+2. _igi_ *a-hu-wa-qar* 
+3. _dumu_ *pu-zu-ru-um* 
+4. _igi_ *ab-de-ra-ah* 
+5. u3 *gu-zu-lu* 
+# envelope adds: -um 
+6. _igi_ *i-qa-ad#-i3-li2* 
+# -ad- clear on envelope 
+7. _igi_ *bur-{d}iszkur* 
+8. _igi_ *i-zi-a-tu* 
+9. _igi_ *ARAD2-si* 
+# line 9 only on envelope
+@left 
+1. _mu_ sin-a-bu-szu _lugal dumu-munus-mesz#_ [i-na] _bad3 iri_ ri#-[musz{ki}] 
+
+&P223147 = TIM 03, 030 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze#_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. _dumu_ *ku-bi-ia* 
+6. {disz}*e-te#?-el-pi4-[sin]* 
+7. _szu ba-an-ti_ 
+@reverse 
+1. a-na _masz-[gan2_-nim] 
+2. _sze#_-[am u3 _masz2-bi_] 
+3. [_i3-ag2-e_] 
+4. _igi#_ [...] 
+5. _igi_ [...] x 
+6. _mu_ [sin-a]-bu-szu ma-ra-su# [a]-na ra!-pi2-qi2 i-di-nu 
+
+
+&P223148 = TIM 03, 031 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3 1(asz) sze# ur5-ra_ 
+# kiszib3 only on envelope 
+2. _masz2 1(asz) gur 1(barig) 4(ban2)# sze-am3_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*s,i2-la-sza* 
+6. _dumu_ *su-ka-li-ia* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim# 
+9. _sze_-am u3 _masz2-bi_ 
+10. _i3-ag2-e_ 
+@reverse 
+1. _igi_ *bur-{d}suen* 
+2. _dumu_ *ih-bi-it#-sin*  
+3. _igi_ *sin-tab?-ba?-we#-du?* 
+# Reschid reads: -tappa-we-du!? 
+4. _dumu_ *il3-su-ra-bi* 
+5. _igi_ *i3-li2-a#-at#-ka* 
+6. _dumu_ *na-qi2-hu-um*  
+7. _igi_ *dingir-lam-li-t,ul* 
+8. _dumu_ *a-hu-ni* 
+9. _mu_ sin-a-bu-szu _lugal dumu-munus_ a-na ($erasure$) ma-an-ki#-si#-in#[{ki}] i-di-nu-u2 
+# i-di-nu-u2 moved up from left edge 
+# envelope reads: 
+# _dumu#-munus_ a-na ma#-an#-ki#-si#-in{ki} i-di-nu-u2 
+
+&P223149 = TIM 03, 032 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) 1(barig) 4(ban2) gur sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*{d}isztaran-a-bu-um#* 
+6. u3 *sin-a-da-la-al* 
+7. _szu ba!-an-ti_ 
+8. a-na _masz-gan2_-nim 
+9. _sze_ u3 _masz2-bi_ 
+@reverse 
+1. _i3-ag2-e_ 
+2. _igi_ *{d}utu-na-s,ir* 
+3. _dumu_ *sin-ka-szi-id* 
+4. {disz}*bur-{d}bara2#?* 
+5. _dumu#_ *nu-ur2-{d}kab#?-ta#* 
+6. {[disz]}*a#-hi-ma-ra-as,#* 
+7. {[disz]}*bu#-ni-lum* 
+8. _[mu] bad3#_ sin-a-bu-szu i-pu-szu 
+
+&P223150 = TIM 03, 033 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) 1(barig) 4(ban2) gur sze_ 
+3. u2-s,a-ab e!-zu-ub pi4 _dub#_ 
+# envelope omits everything after u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu*  
+5. {disz}*ki!-bu-nu-um* 
+# KI clear on envelope
+6. u3 *na-bi-i3-li2-szu* 
+7. _szu ba-an-ti-mesz_ 
+# envelope omits -mesz 
+8. a-na _masz-gan2_-nim 
+9. _sze_-a-am u3 _masz2-bi_ 
+@reverse 
+1. _i3-ag2-e-mesz_ 
+2a. _igi_ *{d}utu-na-s,ir* 
+2b. _dumu_ *sin-ka-[szi-id]* 
+# 2b only on the envelope 
+3. {disz}*bur-{d}bara2?-[(x)]* 
+4. {disz}*nu-ur2-{d}kab-ta* 
+5. {disz}*a#-hi-ma-ra-as,* 
+6. {disz}*bu-ni-lum#* 
+7. _mu bad3_ sin-a-bu-szu i-pu-szu 
+# i-pu-szu with Reschid, not visible on the copy 
+
+
+&P223151 = TIM 03, 034 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(u) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze-ta_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. _dumu_ *ku-bi-ia* 
+6. {disz}*na-mu-ra-su2* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim# 
+9. _sze_-am u3 _masz2#-[bi]_ 
+@reverse 
+1. _i3-ag2-e_ 
+2. _igi_ *e2#?-a-na-da* _a-zu_ 
+3. _igi_ *be-lum* _gu-za-la2_ 
+4. _igi_ {d}*utu-ga-mil* 
+5. _dumu_ *ri-isz-{d}nu-musz-da* 
+6. {disz}*sin#-i-qi2-sza* 
+7. _dumu#_ *ba#-esz18-dar*  
+8. _mu_ a-ki-tam! {disz}sin-a-bu-szu isz-ku-nu  
+$ (envelope adds one last witness:)
+9. _igi_ *ia-ah-zu-ur-dingir* 
+$ (envelope witness order: lines 4, 5, 3, 2, 9)
+
+&P223152 = TIM 03, 035 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _[n(asz) gur] sze# ur5-ra_ 
+2. _[1(asz)] gur# [1(barig)] 4(ban2)# sze masz2_ u2-s,a-ab 
+3. _ki_ *nu-ur2-{d}utu* 
+4. _dumu_ *ku-bi-ia* 
+5. {disz} *be-lum* _gu-za-la2_ 
+6. _dumu_ *sza#?-ni-isz-ka#?* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+9. _sze_-am u3 _masz2-bi_ 
+10. _i3-ag2#-e_ 
+@reverse 
+$ n lines broken  
+1'. _[mu] iri#?_ szul#?-gi-{d}nanna#{[ki]} [sin]-a-bu-szu is,-ba-tu# 
+
+
+&P223153 = TIM 03, 036 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(asz) gur sze ur5-ra_ 
+2. _1(asz) gur_-um? _1(barig) 4(ban2) sze_  
+3. _masz2#_ _u2#-s,a-ab#_ 
+4. _ki#_ *nu#-ur2#-{d#}utu#* 
+5. _dumu#_ *ku-[bi-ia]*  
+6. {disz}*[...]* 
+7. _szu ba#-[an-ti]_ 
+8. [a-na _masz-gan2_-nim] 
+9. [_sze_]-am# [u3 _masz2]-bi#_ 
+10. _i3-ag2#-e#_ 
+@reverse 
+1. _igi_ *pu-zu-ru-um* 
+2. {disz}*i-din-{d}en-lil2* 
+3. {disz}*a-hu-wa#-qar* 
+4. {disz}*i-bi-sin* 
+5. _mu 2(disz)-kam_ sza {d}szul-gi-{d}nanna{ki} 
+
+&P223154 = TIM 03, 037 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(u) 6(asz) 3(barig) 2(ban2) gur sze# ur5-ra_ 
+2. _masz2# 1(asz) <gur> 1(barig) 4(ban2) gur sze#_  
+3. u2-s,a-ab#
+4. _ki#_ *[nu]-ur2#-{d}[utu]* 
+5. {disz}*x-x-x-[...]* 
+6. _dumu#_ *[...]* 
+7. [_szu ba-an-ti_] 
+8. [a-na _masz-gan2_-nim] 
+9. [_sze_-am u3 _masz2-bi_] 
+@reverse 
+1. _i3-ag2-e_ 
+2. _igi_ *be-lum* 
+3. _dumu_ *ba-esz18-dar* 
+4. _igi_ *a-hu-mar-szi* 
+5. _dumu_ *pa-la-t,um* 
+6. {disz}*i3-li2!-ra-bi* _aga-us2_ 
+7. _igi_ {d}*utu-ga-mil* _dub-sar_ 
+8. _mu dumu#-munus lugal-la#?_  
+9. [x x] x x x [(...)] 
+
+
+&P223155 = TIM 03, 038 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _6(asz) <gur> 2(barig) 4(ban2)#? [sze ur5-ra]_ 
+2. _masz2# 1(asz) gur# [1(barig) 4(ban2) sze]_ 
+3. [_ki_] *nu#-ur2#-{d#}[utu]* 
+4. [{disz}]*{d}[...]* 
+5. [_dumu_ *...]*  
+6. _[szu] ba#-an-[ti]_ 
+7. [a-na] _masz-gan2#_-nim 
+8. _sze_-am u3 _masz2-bi_ 
+@reverse 
+1. _i3-ag2-[e]_ 
+2a. _igi_ *ARAD-sin* 
+2b. _dumu_ *sin-a-bu-szu* 
+# 2b only on envelope 
+3. _igi_ *i-qa-ad-i3-li2* 
+# omitted on envelope 
+4. _dumu_ *sza-{d}isz-ha-ra* 
+5. _igi_ *ab-de-ra-ah* 
+6. _dumu_ *pu!-ul-sa3-tum* 
+7. _igi#_ *dingir-lam-li-t,ul* 
+8. _dumu#_ *a-hu-ni* 
+9. [x *ri]-iz#?-zi-a* SAR 
+10. [_mu_ sin]-a-bu-szu _lugal#_ 
+# 9-10 from the envelope 
+
+
+&P223156 = TIM 03, 039 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3 4(asz)# gur sze ur5-ra_ 
+# kiszib3 only on envelope 
+2. _masz2 1(asz) gur 1(nigida) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*e2-ba-bil* 
+6. u3 *a-ha-tum* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+9. _sze_-am u3 _masz2-bi_ 
+@reverse 
+1. _i3-ag2-e_ 
+2. _igi_ *u2-tu-ia* 
+3. _igi_ *pa-lu-um* 
+4. _igi_ *bi2-in#-qa2-ta-nu-um* 
+5. _igi_ *nu-pa-nu-um*  
+6. _igi_ *im-gur-sin*  
+7. _igi_ *ia-am-nu-nu-um* 
+@seal 1 
+1. {d}utu
+2. {d}a-a 
+
+
+&P223157 = TIM 03, 040 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) 4(ban2) sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. _dumu_ *ku-bi-ia* 
+6. {disz}*eresz{esz}-ku-bi* (x) 
+@reverse 
+1. _szu ba-an-ti!_ 
+2. a-na _masz-gan2_-nim 
+3. _sze_-am u3 _masz2-bi_ 
+4. _i3-ag2-e!_ 
+5. _igi_ *ba#-zu#-um* 
+6. _dumu_ *bar-x* 
+7. _igi_ *bi#?-x-ki-tim*
+# Reschid reads: be-el!- 
+@left
+1. _igi_ *sin-a-bu-szu*  
+
+&P223158 = TIM 03, 041 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze-ta_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*bu-ni-lu-um* 
+6. u3 *ta-qi2-isz-na-ni* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2!_-nim 
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *i3-li2-ra-bi* 
+4. _igi_ *ib-ni-{d}mar-tu*  
+5. _dumu_ *a-li#-a* 
+6. _igi_ *ab-de#-ra#-ah* 
+7. _dumu_ *pu-[ul-sa3-tum]* 
+8. _igi_ *[qi2-bu-nu-um]* 
+9. _igi_ *na-bi-i3-li2-szu* 
+$ 1 erased line 
+
+&P223159 = TIM 03, 042 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _3(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur <1(barig)> 4(ban2) sze_ u2-s,a-ab 
+3. _ki_ *nu-ur2-{d}utu* 
+4. {disz}*i-na-ia* 
+5. _szu ba-an-ti#_ 
+6. a-na _masz-gan2_-nim 
+7. _sze_-am u3 _masz2-bi_ 
+8. _i3-ag2-e_ 
+@reverse 
+1. _igi_ *sin-ba-bil* 
+2. _dumu_ *da-bi-nu-um* 
+3. _igi_ *mu-na-nu-um* 
+4. _igi_ *sin-ba-bil*  
+5. _dumu_ *u2-na-bu-um* 
+
+&P223160 = TIM 03, 043 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3 1(asz) gur sze ur5-ra_ 
+# kiszib3 only on envelope 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*a-li-im* 
+6. _dumu_ *us2-sa-te-el* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *i3-li2-a-at-ka* 
+4. _igi_ {d}*isztaran-a-bu-um* 
+5. _igi_ *usz-ta-asz-ni-dingir* 
+6. _igi_ *ah-mar-szi* 
+@seal 1 
+$ (not copied) 
+
+&P223161 = TIM 03, 044 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3 5(asz) gur sze ur5-ra_ 
+# kiszib3 only on envelope 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze-ta#_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*sin-ga-mil* 
+6. _dumu_ *sin-sze-me* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+9. _sze_-am u3 _masz2-bi_ 
+10. i3-ag2-e 
+@reverse 
+1. _igi_ *hu-na-nu-um* 
+2. _igi_ *e-ri-ba#-am*  
+3. _dumu_ *dingir-lum-{d}iszkur* 
+4. _igi_ *ip-qu2-{d}iszkur*  
+5. _dumu_ *i3-li2-tu-ra* 
+6. _igi_ *i3-li2-pa-a-lu-um*  
+7. _dumu_ *am-ti-la-ba*  
+8. _igi_ *sza!-ra-te-el* 
+9. _dumu_ *ad-na-nu-um* 
+
+
+&P223162 = TIM 03, 045 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) gur sze#_ *inim-ma-ni* 
+2. _1(asz) gur_ *dumu-{d}utu* 
+3. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+4. u2-s,a-ab 
+5. _ki_ *nu-ur2-{d}utu* 
+6. _szu ba-an-ti_ 
+7. a-na _masz-gan2_-nim 
+8. _sze_-am# u3 _masz2-bi_ 
+9. _i3-ag2-e_ 
+@reverse 
+1. _igi_ *u2-tu-ia* 
+2. _igi_ *bi2-in#-qa2-ta-nu-um*  
+3. _igi_ *im-gur-sin* 
+4. _igi_ *ab-de-ra-ah*  
+5. _igi_ *nu-ru-bu-um*  
+
+
+&P223163 = TIM 03, 046 
+#atf: lang akk  
+@tablet 
+@obverse 
+1. _3(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze-ta_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*i3-li2-a-at#-ka* 
+6. _dumu_ *na-ki-ru#-um* 
+7. _szu ba-an-ti_ 
+@reverse 
+1. a-na _masz-gan2_-nim 
+2. _sze_-am u3 _masz2-bi_ 
+3. _i3-ag2-e_ 
+4. _igi_ *mu-na-wi-rum* 
+5. _dumu_ *en-nam-sin* 
+6. _igi_ *ma!-nu-um-ki-sin* 
+7. _igi_ *a-hi-ma-ra-as,* 
+8. _dumu_ *na-ma-ni-im* 
+
+
+&P223164 = TIM 03, 047 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) gur sze ur5-ra_ 
+2. _1(asz) gur 1(barig) 4(ban2) sze masz2_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*i3-li2-ba-ni* 
+6. _szu ba-an-ti_ 
+7. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _i3-ag2#-e_ 
+3. _igi_ *i3#-li2#-ra#-bi*
+4. {disz}*ib-ni-{d}mar-tu* 
+5. {disz}*{d}utu-[ga]-mil#!* _aszgab_ 
+
+
+&P223165 = TIM 03, 048 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _4(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze-ta_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*ip-qu2-{d}iszkur* 
+6. _dumu_ *i3-li2-tu-ra* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim  
+9. _sze_-am u3 _masz2-bi_ 
+@reverse 
+1. _i3-ag2#-e_ 
+2. _igi_ *{d}suen#-sze-me#-e#*  
+3. _igi_ *e#-ri-ba-am* 
+4. _dumu_ *dingir#-um-{d}iszkur*  
+5. _igi_ *i3-li2-pa-a-lu#-um#*  
+6. _dumu_ *am#-ti-la-ba#* 
+7. _igi_ *sza#-ra-te-el#!* 
+8. _dumu_ *ad#-na#-nu-um* 
+9. _igi#_ *i3-li2-isz#-[pi]-iq#* 
+10. _dumu_ *i3-li2-be-li2* 
+
+&P223166 = TIM 03, 049 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*a-pil-sin* 
+6. _dumu_ *puzur4-e-ta-ia* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. [_igi_] *sin-pu-ut,-ra-am* 
+4. _dumu#_ *ku-zu-lu-um* 
+5. _igi_ *sin-i-qi2-sza-am* 
+6. _dumu#_ *a-wi-il-dingir* 
+7. _igi_ *ARAD-sin* dumu *gu-ri-ia* 
+8. _igi_ *nu-pa-nu-um* 
+9. _dumu#_ *nu-ru-bu-um* 
+
+&P223167 = TIM 03, 050 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _3(barig) 2(ban2) sze ur5-ra_ 
+2. _1(asz) gur#! 1(barig) 4(ban2) sze masz2-ta-am3#_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*a-li#-(x)-x* 
+6. _dumu_ *u2-di#-x-x* 
+7. _szu# ba-an-ti_ 
+@reverse 
+1. a-na _masz-gan2_-nim 
+2. _sze_-am u3 _masz2-bi_ 
+3. _i3-ag2-e_ 
+4. _igi_ *i3-li3-ra-bi* 
+5. {disz) *ib-ni-{d}mar-tu* 
+6. {disz}*dingir-sipa* 
+
+&P223168 = TIM 03, 051 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _4(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*sa-gu-um* 
+# envelope reads: -gum-u3 
+6. u3 *sza-ti-ia* 
+7. _szu ba-an-ti_ 
+@reverse 
+1. a-na _masz-gan2_-nim 
+2. _sze_-am u3 _masz2-bi_ 
+3. _i3-ag2#-e#_ 
+4. _igi_ *a-li#-ia#-tum#* 
+5. _igi_ *x-[x]-x* 
+6. _igi_ *mu#?-[x (x)]-me#?* 
+7. _igi_ *nu-ur2#-{d?}utu#?* 
+8. _dumu_ *mu-ha-du-um* 
+
+&P223169 = TIM 03, 052 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(barig) 4(ban2) sze ur5-ra zi-iz-ta?_  
+2. _1(barig) 3(ban2) 3(disz) 1/3(disz) sila3 sze_ 
+3. *a-li-a-hu-ia* 
+4. _masz2 1(asz) gur 1(barig) 4(ban2)_ u2-s,a-ab 
+5. _ki_ *nu-ur2-{d}utu* 
+6. _szu ba-an-ti_ 
+7. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze_-am u3 _masz2-bi <i3-ag2-e>_ 
+2. _igi_ *ARAD2-sin* 
+3. _igi_ *nu-ur2-{d}isz-ha-ra* 
+4. _dumu_ *ri-isz-dingir* 
+5. _igi_ *s,il2-li2-{d}we-er* 
+
+&P223170 = TIM 03, 053 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) gur sze ur5-ra) 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2#-s,a-[ab] 
+4. _ki_ *nu-ur2-{d}utu#* 
+5. {disz}*{d}utu#-[na]-s,ir#* 
+6. _dumu#_ *x-[...]* 
+7. _szu# [ba]-an#-[ti]_ 
+8. a-na _masz-[gan2]_-nim  
+@reverse 
+1. _sze_-am u3# _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *sin-im-ma-tim* 
+4. _dumu#_ *a-pil-sin* 
+5. [_igi_] *e!-te-el-pi4-sin* 
+6. _dumu#_ *me-ra-[nu-um]* 
+7. _igi_ *ib-na-tum#* 
+8. _dumu_ *a-pil-sin* 
+9. _igi_ *sin-na-s,ir* _muhaldim_ 
+@left 
+1. _igi_ *sin-i-[qi2?-sza?-am?]* 
+
+&P223171 = TIM 03, 054 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _5(ban2) sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*na-bi-i3-li2-szu* 
+6. _szu# ba-an-ti_ 
+7. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *i3-li2-ra-bi* 
+4. _igi_ *ab-de-ra-ah* 
+5. _igi_ *ib-ni-{d}mar-tu* 
+
+&P223172 = TIM 03, 055 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) 2(barig) 3(ban2) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2)# sze_ 
+3. u2-s,a-ab# 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*ru-ba-tum* 
+6. u3 *um-mi-{d}isz-ha-ra* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze#_-am u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *hu-na-nu-um* 
+4. _igi_ *sin-ga-mil* 
+5. _igi_ *e-ri-ba#-am* 
+6. _igi_ *{d}sze-ru-da#-an* 
+
+&P223173 = TIM 03, 056 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. 2(barig) 3(ban2)#? sze ur5-ra 
+2. masz2 1(asz) gur 1(barig) 4(ban2) sze 
+3. _u2-s,a-ab_ 
+4. ki *nu-ur2-{d}utu* 
+5. {disz}*ia-ap-la-ah#-dingir#*
+6. dumu *isz?-me-lu?-um* 
+7. szu ba-an-ti 
+@reverse 
+1. _a-na_ masz-gan2-nim 
+2. sze-am u3 masz2-bi 
+3. i3-ag2-e! 
+4. igi *{d}isztaran-a-bu-um* 
+5. igi *usz-ta-asz-ni-dingir* 
+6. igi *mu-na-wi-rum* 
+
+&P223174 = TIM 03, 057 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _7(asz) 1(barig) 4(ban2) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze-ta_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*szu-i#-la* 
+6. _dumu_ *ku-sa#-pa-nu-um!* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze_-am [u3 _masz2-bi_] 
+2. _i3-ag2#-e_ 
+3. _igi_ *i3-li2-ra-bi* 
+4a. _igi_ *ab-de-ra-ah* 
+4b. _dumu_ *pu#-ul-za3-tum* 
+5a. _igi_ *il3-szu-ba-ni* 
+5b. _dumu_ *($erasure$)* 
+6a. _igi_ *i-din-e2-a* 
+6b. _dumu_ *engar#-e2-[a]* 
+7. _igi_ *sin-be-el-ibila* 
+$ (b-lines only on the envelope) 
+@seal 1 
+$ (not copied) 
+
+&P223175 = TIM 03, 058 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*mi-il!(AL)-ku-um* 
+6. _dumu_ *ga-gu-um* 
+7. _szu ba-an-ti_ 
+8. a#-na _masz-gan2_-nim 
+9. _[sze]_-am# u3 _masz2-bi_ 
+@reverse 
+1. _i3#-ag2-e_ 
+2. _igi#_ *u2-tu-ia#* 
+3. _igi#_ *sin-pu-ut,-ra#-[am]* 
+4. _igi#_ *ku-zu!-lu-um#* 
+5. _igi#_ *sin-i-qi2-sza-am#* 
+6. _igi#_ *a-wi-il!(AL)-dingir#* 
+7. _igi_ *ia#-ku!(LU)-ni* 
+# Reschid reads: ia-ku-ni 
+8. _igi_ *nu-ru-bu-um* _sipa_ 
+9. _igi_ *pa-lu#-um* 
+
+
+&P223176 = TIM 03, 059 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. 5(asz) gur sze# [ur5-ra] 
+2. masz2 1(asz) gur 1(barig) [4(ban2) sze] 
+3. _u2-s,a-ab_ 
+4. ki *nu-ur2-{d}utu#* 
+5. {disz}*i3-li2-pa-a-lu#-mu#* 
+6. u3 *sza-ra-ti-el#* 
+7. szu ba-an-ti-mesz 
+8. _a-na_ masz-gan2-nim 
+9. sze-am u3 masz2-bi 
+@reverse 
+1. i3-ag2-e 
+2. igi *hu-na-nu-um* 
+# HU over erasure 
+3. igi *sin-ga-mil* 
+4. dumu *sin-sze-me* 
+5. igi *e-ri-ba-am* 
+6. dumu *dingir-um-{d}iszkur* 
+7. igi *i3-li2-isz-pi-iq#* 
+8. dumu *i3-li2-be-[li2]* 
+
+
+&P223177 = TIM 03, 060 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3 5(asz) gur sze ur5-ra#_ 
+# kiszib3 only on the envelope 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze#_ 
+3. u2-s,a-ab_ 
+4. _ki_ *nu-ur2-{d}utu*  
+5. {disz}*be-[el]-tu-um* 
+6. u3 *[x x]-x-du?-um#*
+7. _dumu#_ *[x]-sza-am* 
+8. _szu ba-an-ti-mesz_ 
+9. _a#-na _masz-gan2_-nim 
+10. [_sze_]-am u3 _masz2-bi#_ 
+@reverse 
+1. _i3-ag2-e-mesz_ 
+2. _igi_ *hu-na-nu-um* 
+3. _igi_ *sin-ga-mil* 
+4. _dumu_ *sin-sze-me* 
+5. _igi_ *e-ri-ba#-am* 
+6. _dumu_ *dingir-um-{d}iszkur* 
+7. _igi_ *{d}sze-ru-um-da#-an#* 
+8. _igi_ *i3-li2-pa-a#-lu#-um#* 
+9. _dumu_ *am#-ti#-la#-ba* 
+10. [_igi_ *...]* 
+
+&P223178 = TIM 03, 061 
+#atf: lang akk 
+@tablet 
+@obverse 
+# eliminei gur da linha as seguir, antes de sze
+1. _1(barig) 4(ban2) sze ur5-ra_ 
+2. _masz2 1/2(disz) 4(ban2) gur sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*a-wi-il-i3-li2!* 
+# envelope reads: -dingir 
+6. _szu ba-an-ti!_ 
+7. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze_ u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *mu#-na-wi-rum* _dumu_ *en#-nam#-sin* 
+4. {disz}*[dingir-a]-at#-ka* _dumu_ *na#-qi2#-hu-um* 
+5. {disz}*ma-nu-um-ki-sin* _dumu_ *be-di-lum* 
+
+
+&P223179 = TIM 03, 062 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3 1(asz) 1(barig) 4(ban2) gur sze ur5-ra_ 
+# kiszib3 only on envelope 
+2. _masz2 1(asz) gur 1(barig) 4(ban2)_ u2-s,a-ab 
+3. _ki_ *nu-ur2-{d}utu* 
+4. {disz}*a-hu-ni* 
+5. _dumu_ *ba-zi-zu-um* 
+6. _szu ba-an-ti_ 
+7. a-na _masz-gan2_-nim 
+8. _sze_-am u3 _masz2-bi_ 
+@reverse 
+1. _[i3-ag2]-e#_ 
+2. _igi#_ *[ip?]-qu2#?-sza* 
+3. [_igi_ *pu-ul-sa3]-tum* 
+4. _igi_ *ab-di#-e-ra-ah* 
+5. _igi_ *sin-pu-ut,-ra-am* 
+6. _igi_ *i-qa-ad-i3-li2* 
+7. *sin-i-qi2-sza-am* 
+
+&P223180 = TIM 03, 063
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(asz) gur sze ur5-ra!_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze-ta_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*qi2-bu-nu-um* 
+6. _dumu_ *be-di-lu-um* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+9. _sze_-am u3 _masz2-bi_ 
+@reverse 
+1. _i3-la2-e_ 
+2. _igi_ *i3-li2-ra-bi* 
+3. _igi_ *ab-[de]-ra-ah* 
+4. _igi_ *bu-[...]* 
+5. _igi_ *il3-[szu]-ba-ni* 
+6. _igi_ *na-bi#-x-[x]-um*
+7. _dumu_ *sin-i-[qi2-sza-am]*
+8. _igi_ *sin-a-da#-[la]-al!* 
+9. _dumu_ *{d}[...]* 
+# b-lines only on the envelope 
+
+&P223181 = TIM 03, 064 
+#atf: lang  
+@tablet 
+@obverse 
+1. _2(asz) gur sze# [ur5-ra]_ 
+2. _masz2 [1(asz) gur 1(barig) 4(ban2) sze]_ 
+3. u2-[s,a-ab] 
+$ 5 lines broken 
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *ip-qu2-sza* 
+4. _dumu_ *sin-a-bu-um* 
+5. _igi_ *na-ra-am-i3-li2-szu#* 
+6. _igi_ *sin-im-ma-tim#* 
+
+&P223182 = TIM 03, 065 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1/2(disz) 4(ban2) gur sze ur5-[ra]_ 
+2. _masz2 1(asz) [1(barig) 4(ban2) sze]_ 
+3. u2-s,a-[ab] 
+4. _ki_ *nu-[ur2-{d}utu]* 
+5. {disz}*mu#?-[...]* 
+6. _dumu_ *sin-x-[...]* 
+7. _szu ba-an-[ti]_ 
+@reverse 
+1. a-na _masz-gan2_-nim 
+2. _sze_-am u3 _masz2-bi#_ 
+3. _i3-ag2-e_ 
+4. _igi_ *a-hu-um* _dumu#_ *[ru-ba-tum]* 
+5. _igi_ *ab-de-ra-[ah]* 
+6. _igi_ *sin-pu-ut,-ra#-[am]* 
+7. _igi_ *i-qa-ad-i3#-[li2]* 
+
+&P223183 = TIM 03, 066 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3 1(u) 1(asz) gur sze ur5-ra_  
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*[x]-su2-i-la-am* 
+6. _[dumu]_ *ku-sa-pa-nu-um* 
+7. _[szu] ba#-an-ti_ 
+8. [a]-na# _masz-gan2_-nim 
+@reverse 
+1. _sze#_-am u3 _masz2-bi_ 
+2. _i3#-ag2-e_ 
+3. _igi#_ *{d}isztaran-a-bu-um*  
+4. _igi#_ *i3-li2-ba-ni* 
+5. _igi#_ *sa-ki-ru-um* 
+6a. _igi#_ *szu-mi-{d}isz-ha-ra* 
+6b. _dumu_ *ak-ba?-hu-[um]* 
+# line 6b only on the envelope 
+
+&P223184 = TIM 03, 067 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) gur sze ur5-ra+ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze-ta_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*ip-qu2-sza* 
+6. _dumu_ *i3-li2-di-na-am* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze_-am [u3 _masz2-bi_] 
+2. _i3-[ag2-e]_ 
+3. _igi_ *sin-a-[bu-um]* 
+4. _igi_ *sin im-[ma-tim]* 
+5. _igi_ *a-hu-um#* 
+6. _dumu_ *me-ra-nu-[um]* 
+7. _igi_ *ha-ia-[tum]* 
+8. _dumu_ *ip-qu2-sza* 
+
+&P223185 = TIM 03, 068 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _6(asz)#? 1(barig) 2(ban2) gur sze ur5-ra_ 
+2. _masz2 1(asz)# gur 1(barig) 4(ban2) sze-ta_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*{d}isztaran-a-bu-um* 
+6. u3 *sin-a-da-la!?-al* 
+7. _szu ba-an-ti_ 
+8. a-na _masz2-gan2_-nim 
+@reverse 
+1. _[sze]_-am# u3 _masz2-bi_ 
+2. _[i3]-ag2-e!_ 
+3. _igi_ *i3#-li2-ra-bi* 
+4. _igi_ *na-bi-i3-li2-szu* 
+5. _dumu_ *[sin]-i-tu-szu* 
+6. _igi *ab-de-ra-ah* 
+7. _dumu#_ *[pu]-ul#-sa3-tum* 
+8. _igi_ *[{d}utu-ga]-mil* _aszgab#_ 
+9. _[igi]_ *qi2#-bu-nu-um* 
+10. _[dumu]_ *be-di-lu-um* 
+$ (envelope adds 4 lines:)
+11. _igi_ *[ib-ni-{d}mar-tu]* 
+12. _dumu_ *a-li#-[ia]* 
+13. [x *x] gu [x x]* 
+14. [_igi_] *pa#-lu-um* 
+
+
+&P388192 = TIM 03, 069 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) gur sze [ur5]-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2)# sze#_ 
+3. u2-s,a#-[ab] 
+4. _ki_ *nu-ur2-{d#}[utu]* 
+5. {disz}*i-mi-ir-i3#-[li2]* 
+6. _dumu_ *a-bi-ha-x [(x)]*
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze_-am u3 [_masz2-bi_] 
+2. _i3-ag2-e#_ 
+3. _igi_ *sin-ba?-bil#?*  
+4. _dumu_ *sza-ma-ia#*  
+5. _igi_ *im-gur-sin#* 
+6. _dumu_ *i3-li2-{d}x [(x)]* 
+7. _igi_ *sin-re-me-ni#* 
+8. _dumu_ *pa#-al-[lum]* 
+# PA over erasure 
+
+
+&P223186 = TIM 03, 070 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _4(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2)# [sze-(ta)]_ 
+3. u2#-s,a-[ab] 
+4. _ki#_ *[nu-ur2-{d}utu]* 
+5. {disz}*[...]* 
+6. [_dumu_ *...]* 
+7. [_szu ba-an-ti_] 
+8. [a-na _masz-gan2_]-nim# 
+9. _sze#_-am [u3 _masz2-bi_] 
+10. _i3#-ag2#-e_ 
+@reverse 
+1. _igi_ *ip-qu2-sza* 
+2. _dumu_ *sin-a#-bu-um* 
+3. _igi_ *na-ra#-am-i3-li2-szu* 
+4. _dumu_ *me-ra-nu-um* 
+5. _igi_ *sin-im-ma#-tim#* 
+6. _dumu_ *a-pil-sin#* 
+# CG replaced lines 7 and 9 because SeparaNomes.awk cannot deal with two sons of a father
+7. _igi_ *hu-sa-bu-um* _dumu_ *i-szar#-dingir* 
+8. _igi_ *ARAD2-{d}mar#-tu* 
+9. _dumu_ *i-szar#-dingir* 
+10. [_igi_ x]-id#?-na 
+
+&P223187 = TIM 03, 071 
+#atf: lang  
+@tablet 
+@obverse 
+1. _1(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze#_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-[{d}utu]* 
+5. {disz}*a-hu-[ni]* 
+6. _dumu_ *ARAD2-[x x]* 
+7. _szu ba-an#-[ti]_ 
+8. a-na _masz-gan2#_-[nim] 
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *u2-tu-ia* 
+4. _igi_ *pa-lu-um* 
+5. _igi_ *nu-pa-nu-um* 
+
+&P223188 = TIM 03, 072 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _[n gur] sze# ur5-ra_ 
+2. _[masz2] 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2#-s,a-ab 
+4. _ki#_ *nu-ur2-{d}utu* 
+5. {disz#}*i-s,i2-a-szar* 
+6. _[szu] ba-an-ti_ 
+7. [a]-na# _masz-gan2_-nim 
+@reverse 
+1. _[sze]_-am# u3 _masz2-bi_ 
+2. _[i3]-ag2#-e_ 
+3. [_igi_ *a]-hu#-wa-qar* 
+4. [_igi_ *ARAD]-sin* 
+5. [_igi_ *ab]-de#-ra-ah* 
+6. [_igi_] *i#-qa#!-ad#-i3-li2* 
+
+&P223189 = TIM 03, 073 
+#atfZ: lang akk 
+@tablet 
+@obverse 
+1. _6(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-[s,a]-ab 
+4. _ki#_ *nu-ur2#-{d#}utu#* 
+5. {disz#}*[...]-x* 
+6. *[...]-um#?* 
+7. _[szu ba-an-ti]-mesz#_ 
+8. [a-na _masz-gan2_]-nim# 
+9. _sze_-am u3# _masz2-bi#_ 
+@reverse 
+1. _i3-ag2-e#_ 
+2. _igi_ *ip-qu2-sza#* 
+3. _dumu_ *sin-a-bu-um* 
+4. _igi_ *na!-ra-am-i3#-[li2-szu]* 
+5. _dumu_ *me-ra-nu-um#* 
+6. _igi_ *sin-a-su* aga#-[us2] 
+7. _igi_ *be-el-szu#-[nu]* 
+8. _dumu_ *me-ra-[nu-um]* 
+9. _igi_ *sin-im-ma#-[tim]* 
+10. _dumu#_ *a-pil-[sin]* 
+11. _igi_ *ARAD-{d}mar-tu* 
+12. _dumu#_ *dingir-da-na-an* 
+
+&P223485 = TIM 03, 074 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _[n gur] sze# ur5#-ra_ 
+2. _[masz2 1(asz) gur 1(barig)] 4(ban2)#_ u2#-s,a#-ab  
+3. [_ki_ *nu]-ur2#-{d}utu* 
+4. [{disz}*x]-NI-x-i#?-la#?-tim*
+5. [_dumu_ *sin]-i#?-di#?-nam*
+6. _[szu] ba#-an-ti_ 
+7. [a-na] _masz-gan2#_-nim 
+8. _sze_-am# u3# _masz2-bi_ 
+9. _i3-ag2-e_ 
+@reverse 
+1. [_igi_] *i3-li2-ta#-di#?* 
+2. _dumu_ *u2-ka-ia* 
+3. _igi_ *sza-ma-ia* 
+4. _dumu_ *ga-gu-um*  
+5. _igi_ *ARAD-{d}inanna*  
+6. _dumu_ *ib-ni-{d}inanna* 
+7. _igi_ *nu-ur2-{d}iszkur* 
+8. _dumu_ *sza-ru-um-{d}iszkur* 
+9. _igi_ *ab-de-ra-ah* 
+10. _dumu#_ *bu-ni#-[lu?-um?]* 
+$ (envelope adds:) 
+11. [*...] x-a#-x* 
+
+&P223190 = TIM 03, 075 
+#atf: lang akk  
+@tablet 
+@obverse 
+1. _[n gur] sze#? {gesz}ban2_ {d}utu# 
+2. na#-asz-pa#!-kum sza _e2-gal_-lim 
+3. i-na i-s,i2-lugal{ki} 
+4. _ki_ *{d}suen-ib-ni-szu* 
+5. dumu *{d}suen-ka-szi-id* 
+6. _i3-gal2_
+7. _u4!(KI)_-um _e2-gal_-lum 
+8. i-te-er-szu#-szu 
+9. a-na *ku-ur2-ku-du-um* 
+10. {disz}*su-pa-pu-um* 
+11. u3 *nu-ur2-{d}utu* 
+12. _i3#-ag2-e_ 
+@reverse 
+1. [_iti_ ki-nu]-nim# _u4 5(disz)-kam ba-zal#_ 
+2. x [x (x)] _sze#? i3-ag2-e_ 
+3a. [_igi_ *x (x)]-x-ki-ni-isz-x-ba* 
+3b. _igi_ *be#?-lum#?* _gu-za-la#_
+# 3b replaces 3a on envelope 
+4. _igi#_ *za#?-ni#?-x-gal#?-rum* 
+5. _dumu#_ *{d}suen-i-din-nam*
+6. _igi#_ *dingir-szu-ba-ni* 
+7. _dumu_ *li-pi#?-it!-{d}en-lil2* 
+8. _igi_ *{d}utu-ga-mil* _dam-gar3#_ 
+9. _dumu_ *ki-ma-a-hi-ia* 
+10. _igi_ *ARAD-{d}suen* _dumu_ *{d}suen-i-din-nam* 
+# CG eliminates ($blanks$) from the following line
+11. [...]*...* 
+12. [... *da]-na#-an* 
+13. [*...] x* 
+# from the envelope: 
+14. _mu us2-sa_ szul-gi-[na]-an#?-na#? _in-dab5#_   
+
+&P223191 = TIM 03, 076 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _[n gur sze] ur5#-ra_ 
+2. _[masz2] 1(asz) gur# 1(barig) 4(ban2) sze-ta_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*a-wi-il!(AL)-dingir* 
+6. u3 *i-ma-a-tum* 
+7. _szu ba-an-ti-mesz_ 
+8. a-na _masz-gan2_-nim 
+9. _sze_-am u3 _masz2-bi_ 
+10. _i3-ag2-e_ 
+@reverse 
+1. _igi_ *sin-pu-ut,-ra-am* 
+2. _dumu_ *ku#-zu!-lu-um*
+# CG corrected to gu-ri-ia; see document 016 with the same witnesses
+3. _igi_ *ARAD#-sin* dumu *gu-ri-ia#* 
+4. _igi_ *u2-tu-ia*  
+5. _igi_ *sin-i-qi2-sza-am*
+6. _dumu_ *a-wi-il!(AL)-dingir* 
+# AL is clear on envelope 
+7. [_igi_] *nu-ru-bu-um* 
+8. [_igi_] *nu-pa-nu-um* 
+
+&P223192 = TIM 03, 077 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _5(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5a. {disz}*i3-li2-a-at-ka* 
+5b. _dumu#_ *na-KI-hi-im* 
+# b-line only on the envelope 
+6. _szu ba-an-ti_ 
+7. a-na _masz-gan2_-nim 
+8. _sze_-am u3 _masz2-bi_ 
+@reverse 
+1. _i3-ag2-e_ 
+2. _igi_ *{d}isztaran-a-bu-um!* 
+3. _igi_ *usz-ta-asz-ni-dingir* 
+4. _dumu_ *mu-x-(x)-um-mi#-e*  
+5. _igi_ *a#-hu#?-[ni?]*
+6. _igi#_ *x-[x x (x)]* 
+7. _dumu_ *x-[...]* 
+8. _igi_ *ah#?-[...]* 
+
+&P223193 = TIM 03, 078 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(asz)#? 2(ban2)#? gur sze ur5-ra_ 
+2. _[masz2] 1(asz)# gur# 1(barig) 4(ban2) sze_ 
+3. [u2]-s,a-ab 
+4. [_ki_ *nu]-ur2#-{d}utu* 
+5. [{disz}*a-hu]-wa-qar* 
+6. _dumu#?_ *[...]-x*  
+7. _szu# ba#-[an]-ti_ 
+8. a#-na# _[masz]-gan2#_-nim 
+9. [_sze_-am u3] _masz2#-bi_  
+@reverse 
+1. _[i3]-ag2#-e_ 
+2. _igi_ *ARAD#-sin*  
+3. _igi_ *bur-{d}iszkur* 
+4. _igi_ *a-hu-um* _dumu_ *ru!-ba#-tum* 
+5. _igi_ *ab-de-ra-ah* 
+6. _igi_ *i-qa-ad-i3-li2* 
+
+
+&P223194 = TIM 03, 079 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) gur sze [ur5]-ra_ 
+2. _masz2 1(asz) 1(barig)# 4(ban2)# sze#!_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*sin-i-qi2-sza-am* _aszgab!_ 
+6. _dumu_ *pa-ak#-nu-um* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+9. [_sze_-am u3 _masz2-bi_]  
+@reverse 
+1. [_i3-ag2-e_]   
+2. [_igi_ *{d}]suen#-im#-[ma-tim]* 
+3. [_dumu_] *a#-pil-sin#* 
+4. [_igi_] *e#-te-el-pi4#-sin#* 
+5. [_dumu_] *me#-ra!-nu-um* 
+6. _igi#_ *ib-na-a-tum* 
+7. _dumu#_ *a-pil-sin* 
+8. [_igi_] *sin-i#-qi2#-sza#-am#* 
+9. _dumu#_ *ARAD-di#-[ia]* 
+
+&P223195 = TIM 03, 080
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _5(asz) gur [sze ur5]-ra#) 
+2. _masz2 1(asz) [1(barig) 4(ban2) sze]-ta_ 
+3. u2-[s,a]-ab 
+4. _ki_ *[nu]-ur2-{d}utu* 
+5. {disz}*sin-sze-me* 
+6. u3 *inim-ma-ni* _nu-esz3_ 
+7. _szu ba-an-ti-mesz#_ 
+8. a-na _masz-gan2_-nim 
+9. _sze_-am u3# [_masz2-bi_] 
+@reverse 
+1. _i3-ag2#-[e-mesz]_ 
+2. _igi_ *hu-na-nu-um#* 
+3. _dumu_ *sin-sze-me* 
+4. _igi_ *e-ri-ba-am*  
+5. _dumu_ *dingir-um-{d}iszkur* 
+6. _igi_ *i3-li2-pa-a-lum#* 
+7. _dumu_ *am-ti-la-ba* 
+8. _igi_ *i3-li2-isz-pi2-iq* 
+9. _dumu_ *i3-li2-be-li2* 
+
+
+&P223196 = TIM 03, 081 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _[n gur sze ur5]-ra#_ 
+2. _[masz2]_ 1(asz) gur# [1(barig)] 4(ban2)# sze-ta_ 
+3. [u2]-s,a-ab
+# ni-ur corrected to nu-ur by CG 
+4. [_ki_] *nu-ur2-{d}utu*  
+5. [{disz}]*ma#-nu-um-ki-sin* 
+6. [u3] *hu#-di-lu-um* 
+7. _[szu] ba#-an-ti_ 
+8. [a-na] _masz-gan2_-nim 
+@reverse 
+1. _sze#_-am# u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *i3-li2-ra-bi* 
+4. _igi_ *ab-de-ra-ah* 
+5. _dumu_ *pu!-ul-sa3-tum* 
+6. _igi_ *ib-ni-{d}mar-tu* 
+7. _dumu_ *a-li-a* 
+8. _igi_ *na-bi-i3-li2-szu* 
+9. _dumu_ *sin-i-li-szu* 
+@left 
+1. _igi#_ *qi2-bu-nu-um* 
+
+&P223197 = TIM 03, 082 
+#atf: lang  
+@tablet 
+@obverse 
+1. _[n gur sze ur5]-ra_ 
+2. _[masz2] 1(asz)# gur# 1(barig)# [4(ban2)] sze-ta_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*dingir-ka-szi-id* 
+6. u3 *aq-bu-um* 
+7. _szu ba-an-ti_ 
+@reverse 
+1. a-na _masz-gan2_-nim 
+2. _sze_-am u3 _masz2-bi_ 
+3. _i3-ag2-e_ 
+4. _igi_ *i3-li2-ra-bi* 
+5. _igi_ *il3-szu-ba-ni* 
+6. _dumu_ *ib-ni-ia* 
+7. _igi#_ *{d}suen!-en-nam* 
+8. [_igi_] *mu-tu-um-dingir* 
+9. [x *x x]-szum#?* 
+
+&P223198 = TIM 03, 083 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _4(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze-ta_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*nu-pa-nu-um* 
+6. u3 *mu-na-AL-KA-bu-um* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *u2-[tu]-ia#* 
+4. _igi_ *bi2#?-[in?-qa2?]-ta#?-nu-um* 
+5. _igi_ *[...] x* 
+6. _igi_ *[...] x* 
+7. _igi_ *[...] x* 
+8. _igi_ *ab-de#-ra#-[ah]* 
+9. _dumu_ *pu-ul#-sa3-tum* 
+
+
+&P223199 = TIM 03, 084 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _[n] gur sze ur5-ra_ 
+2. _[masz2] 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. [u2]-s,a-ab 
+4. [_ki_ *nu]-ur2-{d}[utu]* 
+5. [{disz}]*i#-di#-ar-ni* 
+6. _[szu] ba#-an-ti_ 
+7. [a]-na# _masz-gan2_-nim 
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *hu-na-nu-um* 
+4. _igi_ *sin-ga-mil* 
+5. _dumu_ *sin-sze-me* 
+
+&P223200 = TIM 03, 085 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. [n _gur sze_] *ru-[ba?-tum?]* 
+2. [n _gur_ *be?]-el-[tum?]* 
+3. [n _gur_ *{d}]suen#-[...]* 
+4. [n _gur_] *x-ra#?-szu-ub-tum* 
+5. _ki#_ *nu#-ur2-{d}utu* 
+6. _szu ba-an-ti-mesz_ 
+7. a-na _masz-gan2_-nim 
+8. _sze_-am u3 _masz2-bi_ 
+@reverse 
+1. _i3-ag2-e_ 
+2. _igi_ *mu-na-nu-um* szitim 
+3. _igi#_ *dingir-ka-szi-id#* 
+4. _igi_ *mu-da-ri-is,* 
+5. _igi#_ *ki#-nu-um* 
+
+&P223201 = TIM 03, 086 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _3(asz) gur sze# ur5#-ra#_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*na-ah-li2-dingir* 
+6. _dumu_ *mu-qa2-ni-tum* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+@reverse  
+1. [_sze_]-am# u3 [_masz2-bi_] 
+2. [_i3-ag2-e_] 
+$ rest broken 
+
+&P223202 = TIM 03, 087 
+#atf: lang akk  
+@tablet 
+@obverse 
+1. _6(asz) 1(barig) 4(ban2)# gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*a-li2-dingir* 
+6. u3 *u2-s,ur-we-da* _szesz#-a-[ni]_ 
+7. _szu ba-an-ti-mesz_ 
+8. a-na _masz-gan2_-nim 
+9. _sze_-am u3 _masz2-bi_ 
+@reverse 
+1. _i3-ag2-e_ 
+2. _igi_ *a-hu-um#* 
+3. _dumu_ *ru#-[ba]-tum#* 
+4. _igi_ *[...]* 
+5. _dumu_ *[...]* 
+6. _igi#_ *[...]* 
+7. _dumu#_ *[...]* 
+
+
+&P223203 = TIM 03, 088 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _3(disz)# gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*{d}mar-tu-na-s,ir* _sipa#_ 
+6. _szu ba-an-ti_ 
+7. a-na _masz-gan2_-nim 
+8. _sze#_-[am u3 _masz2]-bi#_ 
+@reverse 
+1. [_i3-ag2-e_] 
+2. [_igi_ ...] 
+$ rest broken 
+
+&P223204 = TIM 03, 089 
+#atf: lang akk 
+@tablet 
+@obverse 
+$ 2 lines broken 
+3. [_ki_ *nu-ur2-{d}]utu* 
+4. [{disz}*...]* 
+5. [*...] x* 
+6. [*x-x-{d}]nin#-szubur?* 
+7. [u3] *il-ka-sin* 
+8. _szu ba-an-ti_ 
+9. a-na _masz-gan2_-nim 
+10. _sze_-am u3 _masz2-bi#_ 
+@reverse 
+1. _i3-ag2-e_ 
+2. _igi_ *ip-qu2-sza* 
+3. _dumu_ *sin-a-bu-um* 
+4. _igi_ *na-ra-am-i3-li2-szu*  
+5. _dumu_ *me-ra-nu-um*  
+6. _igi_ *sin-im-ma-tim*  
+7. _dumu#_ *a-pil-sin* 
+8. [_igi_] *be-el-szu-nu* 
+9. [_dumu_] *me#-ra-nu-um* 
+
+
+&P223205 = TIM 03, 090 
+#atf: lang akk 
+@tablet 
+@obverse 
+$ 3 lines broken 
+4. *[x x] x [...]* 
+5. {disz}*x-x-[...]*  
+6. _dumu#_ *a-x-[...]* 
+7. _szu# ba#-an#-[ti]_ 
+8. [a]-na# [...] 
+9. _sze_-am# u3# _masz2#-bi#_ 
+10. _i3-ag2-e_ 
+@reverse 
+1. _igi_ *ip-qu2-sza#* 
+2. _dumu_ *sin-a-bu-um*  
+3. _igi_ *na-ra-am-i3-li2-szu* 
+4. dumu_ *me-ra-nu-um* 
+5. igi_ *sin-a-su2* aga-us2 
+6. igi_ *be-el-szu-nu* 
+7. dumu_ *me-ra-nu-um* 
+8. igi_ *sin-im-ma-tim* 
+9. dumu_ *a-pil-sin* 
+
+
+&P223206 = TIM 03, 091 
+#atf: lang akk 
+@tablet 
+@obverse 
+$ 5 lines broken 
+5. *x-x*
+6. _dumu_ *i#-[...]* 
+7. _szu ba-an-[ti]_ 
+8. a-na _masz-gan2#_-[nim] 
+@reverse 
+1. _sze_-am u3 _masz2-bi#_ 
+2. _i3-ag2-e#_ 
+3. _igi_ *i-bi-ia#* 
+4. _igi_ *na-ah-li2-dingir#* 
+5. _dumu_ *mu-qa2-ni-tum#* 
+6. _igi_ *da-KI-ia#* 
+7. _igi_ *sin-i-qi2#-[sza-am]* 
+# SIN over erasure 
+8. _igi_ *sza-ma#-[ia]* 
+9. _dumu#_ *[ga-gu-um]* 
+$ rest broken 
+
+&P223207 = TIM 03, 092 
+#atf: lang akk 
+@tablet 
+@obverse 
+$ beginning broken 
+1'. _szu# ba-an#-[ti]_ 
+2'. a#-na _masz-[gan2_-nim] 
+@reverse 
+1. _sze_-am! u3 _masz2#-[bi]_ 
+2. _i3-ag2-e!_ 
+3. _igi_ *il3-szu-i#-la#-szu#* KU-RU?-(x)-x  
+4. _igi_ *a-hu-wa-qar#* 
+5. _dumu_ *il3-szu-ba-ni#* 
+6. _igi_ *sin-ba-ni* 
+7. _dumu#_ *sin-i-[qi2-sza-am]* 
+
+&P223208 = TIM 03, 093 
+#atf: lang akk 
+@tablet 
+@obverse 
+$ broken 
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _i3-ag2-e_ 
+3. _igi_ *i-bi-ia* 
+4. _igi_ *na-ah-li2-dingir* 
+5. _dumu_ *mu-qa2-ni-tum* 
+6. _igi_ *da-di-ia* 
+7. _igi_ *sin-i-qi2-sza-am* 
+8. _dumu_ *a-da-ia* 
+9. [_igi_ *sza]-ma#-ia#* 
+
+
+&P223209 = TIM 03, 094 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze+ 
+3. u2-s,a-ab 
+4. _n gur ziz2! ur5-ra_ 
+5. _[masz2] 1(asz) gur 1(barig) 4(ban2)_ u2-s,a-ab 6. _[ki]_ *nu-ur2-{d}utu* 
+7. [{disz}]*is,-s,ur-nu-nu* 
+8. _[szu] ba-an-ti_ 
+9. [a]-na _masz-gan2_-nim 
+10. _[sze]_-am u3 _masz2-bi_ 
+@reverse 
+1. _ziz2#_ u3# _masz2-bi_  
+2. _i3-ag2-e_ 
+3. _igi_ *sin-pu-ut,-ra-<am>*  
+4. _igi_ *u2-tu-ia*  
+5. _igi_ *s,il2-li2-sin* 
+6. _igi_ *pa-lu-um* 
+7. _igi_ *sin-i-qi2-sza-am* 
+
+&P223210 = TIM 03, 095 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze-ta_ 
+3. u2-s,a-ab 
+4. _1(asz) 2(barig) 3(ban2) gur ziz2! ur5-ra_ 
+5. _masz2 1(asz) gur 1(barig) 4(ban2)_ u2-s,a-ab 
+6. _ki_ *nu-ur2-{d}utu* 
+7. {disz}*nu-ur2-ku-bi* 
+8a. u3 *sza-ra-tum* 
+8b. _dam_-szu 
+# line 8b added on envelope 
+9. _[szu] ba#-an-ti_ 
+@reverse 
+1. [a]-na# _masz-gan2_-nim 
+2a. _[sze]_-am# u3 _masz2-bi_ 
+2b. _ziz2!_ u3 _masz2-bi_ 
+# line 2b added on envelope
+3. _i3-ag2-e_ 
+4. _igi_ *bi2-in-qa2-ta-nu-um* 
+5a. _igi_ *nu-pa-nu-um* 
+5b. _igi_ *u2-tu-ia* 
+# line 5b added on envelope 
+6. _igi_ *nu-ru-bu-um* 
+7. _igi_ *i-pi2-iq-sza* 
+@seal 1 
+1. {d}utu 
+2. {d}a-a 
+
+
+&P223211 = TIM 03, 096 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _8(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ u2-s,a-ab 
+3. _1(u) 3(asz) 1(barig) 4(ban2) gur ziz2! masz2 1(asz) gur 1(barig) 4(ban2) sze#_ 
+4. u2-s,a-ab  
+5. _ki_ *nu-ur2-{d}utu* 
+6. {disz}*u2-tu-ia* 
+7. _dumu_ *er11-ra-ku-ra-[ad]* 
+8. _szu# ba-an-ti_ 
+9. [a]-na# _masz-[gan2_-nim] 
+10. [_sze_]-am [u3 _masz2-bi_] 
+11. _i3#-ag2-[e]_ 
+@reverse 
+1. _igi_ *sin-pu-ut,-ra-am* 
+2. _dumu#_ *ku#-zu-lu-um#* 
+3. _igi_ *bi2#-in-qa2-[tu-um]* 
+4. _igi_ *ARAD2#-da#-ni* 
+5. _igi_ *sin-i-qi2-sza-[am]* 
+6. _dumu_ *a-wi-il!(AL)-dingir#*
+7. _igi_ *nu-pa-nu-um* 
+8. _igi_ *nu-ru-bu-um* 
+
+
+&P223212 = TIM 03, 097 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ u2!-s,a-ab
+3. _1(asz) gur ziz2! ur5-ra masz2 1(asz) gur 1(barig) 4(ban2) ziz2_ 
+4. u2-s,a-ab 
+5. _ki_ *nu-ur2-{d}utu* 
+6. {disz}*s,il2-li2-{d}iszkur* 
+7. u3 *im-gur#-sin* 
+8. _szu ba-an#-[ti]-mesz_ 
+9. a-na _masz#-[gan2_-nim] 
+10. _sze_-am u3 _masz2-bi#_ 
+@reverse 
+1a. _i3-ag2-e_ 
+1b. _ziz2_ u3 _masz2-bi_ 
+1c. _i3-ag2-e_ 
+# lines 1b-1c only on the envelope 
+2. _igi_ *ARAD2-sin* dumu *gu-ri-ia* 
+3. _igi_ *u2-tu-ia*  
+4. _igi_  *sin-i-qi2-sza-am* 
+5. _dumu_ *a-wi-il!(AL)-dingir* 
+6. _igi_ *nu-pa-nu-um*  
+7. _igi_  *i3-li2-tab-ba-e!* 
+8. _dumu_ *ARAD2-da-ni* 
+
+&P223213 = TIM 03, 098 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. 2(asz) gur sze ur5-ra 
+2. masz2 1(asz) gur 1(barig) 4(ban2) sze 
+3. _u2-s,a-ab_ 
+4. 1(asz) gur ziz2 ur5-ra masz2 1(asz) gur 1(barig) 4(ban2) sze# 
+5. _u2-s,a-ab_ 
+6. ki *nu-ur2-{d}utu* 
+7. {disz}*i3-li2-a-bi-ni* 
+8. dumu *bu-na-gu-um* 
+9. szu ba-an-ti 
+10. _a-na_ masz-gan2-nim 
+@reverse 
+1. sze-am u3 masz2-bi 
+2. i3-ag2-e 
+3. igi *sin-i-qi2-sza-am* 
+4. dumu *il!(AL)-mu-sza-lim* 
+5. igi *s,il2-li2-{d}iszkur* 
+6. dumu *im-gur-sin* nu#-esz3 
+7. igi *u-tu-ia* 
+
+
+&P223214 = TIM 03, 099 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(u) 1(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. 5(asz) 1(barig) 4(ban2) gur ziz2 ur5-ra 
+5. masz2 1(asz) gur 1(barig) 4(ban2) ziz2 u2-s,a-ab 
+6. _ki_ *nu-ur2-{d}utu* 
+7. {disz}*sin-pu-ut,-ra!-am* 
+# envelope writes instead of SIN: {d}suen# 
+8. _dumu_ *ku-zu-lu-um* 
+9. _szu ba-an-ti_ 
+10. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _ziz2_ u3 _masz2-bi i3-ag2#-e#_ 
+3. _igi_ *u2-tu-ia* 
+4. _igi_ *ARAD2-sin* _dumu_ *gu-ri#-ia#* 
+5. _igi_ *sin-i-qi2-sza-am* 
+6. _dumu_ *a-wi-il!-dingir* 
+7. _igi_ *pa-lu-um* 
+8. _igi_ *ia-ku#-ni* 
+9. _igi_ *nu-ru-um* dub!-sar#  
+10. _igi_ *mi-il!-ku-um* 
+
+
+&P223215 = TIM 03, 100 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _3(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab 
+4. _3(asz) gur ziz2 ur5-ra masz2 1(asz) gur 1(barig) 4(ban2)#_
+5. u2-s,a-ab 
+6. _ki_ *nu-ur2-{d}utu* 
+7. {disz}*pa-lu-um* 
+8. _dumu_ *er11#-ra#-qu2#-ra#-ad* 
+9. _szu ba-an-ti#_ 
+@reverse 
+1. a-na _masz-gan2_-nim 
+2. _sze_-am u3 _masz2-bi_ 
+3. _ziz2_ u3 _masz2-bi i3-ag2-e_ 
+4. _igi_ *bi2-in-qa2-ta-nu-um*
+# from now on corrections by CG  
+5. _igi_ *u2-tu-ia* 
+6. _igi *ia-am-nu-um*
+7. _igi_ *nu-pa-nu-um* 
+8. _igi_ *nu-ru-bu-um* 
+@seal 1 
+1. {d}utu 
+2. {d}a-a 
+
+&P223216 = TIM 03, 101 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. [n] _gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2#-s,a-ab 
+4. _1(asz)#? gur ziz2# ur5-ra_ 
+5. _masz2 1(asz) gur 1(barig) 4(ban2)_ u2-s,a-ab 
+6. _ki_ *nu-ur2-{d}utu* 
+7. {disz}*AN-KA-a-am* 
+8. _dumu_ *a-bu-ku?-um* 
+9. _szu ba-an-ti_ 
+@reverse 
+1. a-na _masz-gan2_-nim 
+2. _sze_-am u3 _masz2-bi_ 
+3. _ziz2_ u3 _masz2-bi i3-ag2#-e_ 
+4. _igi_ *{d}utu-na-s,ir* 
+5. _dumu_ *mu-ha-du!-um* 
+6. _igi_ *nu-ur2-{d}utu* _gu-gal_ 
+7. _igi_ *e-te-el-pi4-sin#?* _nu-{gesz}kiri6#_  
+8. _igi_ *sin-a-zu* _dumu!_ *bur-sin* 
+@seal 1 
+1. *i-di#-i-a* 
+2. *ARAD-{d}nin-su4-an-na* 
+
+&P223217 = TIM 03, 102 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _[n] gur sze ur5-ra_ 
+2. _masz2# 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. [u2]-s,a-ab 
+4. _[n] 2(asz) gur ziz2 ur5-ra_ 
+5. _masz2 1(asz) gur 1(barig) 4(ban2) sze-ta_ 
+6. u2-s,a-ab 
+7. _ki_ *nu-ur2-{d}utu* 
+8. {disz}*sin-ba-bil* 
+9. _dumu_ *en-nam-sin* 
+10. _[szu ba]-an#-ti_ 
+@reverse 
+1. [a]-na# _masz-gan2_-nim 
+2a. _sze#_-am u3 _masz2-bi_ 
+2b. _ziz2_ [u3 _masz2-bi_] 
+2c. _i3-[ag2-e]_ 
+$ (2b-2c only on envelope) 
+3. _igi_ *sin-ba-bil* 
+4. _dumu_ *ri-isz-{d}iszkur* 
+5. _igi_ *ARAD-sin* _dumu_ *gu-ri-ia!* 
+6. _igi_ *{d}utu-ga-mil* _aszgab_ 
+
+
+&P223218 = TIM 03, 103 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _8(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) sze_ 
+3. u2-s,a-ab# 
+4. _5(asz) gur ziz2 masz2# 1(asz) gur# 1(barig) 4(ban2)_ 
+5. u2#-s,a#-ab# 
+6. _ki_ *nu-ur2-{d}utu* 
+7. {disz}*s,il2-li2-sin* 
+8. {disz}*i3-li2-tab-ba-e* 
+9. u3 *il!-ta-ni* 
+10. _szu ba-an-ti_ 
+11. a-na _masz-gan2_-nim 
+@reverse 
+1. _sze_-am u3 _masz2-bi_ 
+2. _ziz2_ u3 _masz2-bi_ 
+3. _i3-ag2-e_ 
+4. _igi_ *sin-pu-ut,-ra-am* 
+5. _dumu#_ *ku-su2-lu-um* 
+6. [_igi_] *ARAD-sin* _dumu_ *gu-ri-ia* 
+7. [_igi_] *[u2]-tu-ia* 
+8. [_igi_ *sin-i-qi2]-sza#-am#* 
+9. [_igi_ *pa-lu-um]* 
+10. _igi_ *nu#!-pa#!-nu#!-[um]* 
+
+
+&P223219 = TIM 03, 104 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) gur sze# ur5#-[ra]_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2) u2-[s,a-ab] 
+3. _1(asz) gur ziz2 1(asz) gur# 1(barig) 4(ban2)#_ _u2-s,a-ab_ 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*pa-lu-u2-[um?]* 
+6. _szu ba-an-ti_ a-na _masz-gan2#_-[nim] 
+7. _sze_-am u3 _masz2-bi_ 
+8. _ziz2_ u3 _masz2-bi i3-ag2-e#_ 
+@reverse 
+1. e-zu#!-ub# pi4# t,u2#-[pi-szu] 
+2. _3(asz) gur sze [n] 2(asz)# gur# [ziz2]_ 
+3. _igi_ *sin-pu#-[ut,-ra-am]* 
+4. {disz}*u2#?-[...]* 
+5. {disz}*[...]* 
+6. {disz}*[...]* 
+7. {disz}*[...]* 
+8. {disz}*[...]* 
+ 
+
+
+&P223220 = TIM 03, 105 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _[n gur sze ur5-ra]_ 
+2. _[masz2 1(asz) gur 1(barig) 4(ban2)] sze_ 
+3. [u2-s,a]-ab 
+4. _[n gur ziz2 ur5]-ra_ 
+5. _[masz2 1(asz) gur 1(barig) 4(ban2)]_ u2#-s,a-ab 
+6. [_ki_ *nu-ur2-{d}]utu* 
+7. {disz}*im#-gur#-sin* 
+8. _dumu#?_ *ga#-ru-um-sza* _ugula_ x (x) 
+9. _szu# ba#-an-ti_ 
+@reverse 
+1. a-na _masz-gan2_-nim 
+2. _sze_-am u3 _masz2-bi_ 
+3. _ziz2_ u3 _masz2-bi_ 
+4. _i3-ag2-e_ 
+5. _igi_ *sin-pu-ut,-ra-am* 
+6. [_igi_] *u2-tu-ia* 
+7. [_igi_] *s,il2-li2-sin* 
+8. [_igi_] *pa#-lu-um* 
+9. [_igi_ *sin]-i-qi2-sza-am* 
+
+
+&P223221 = TIM 03, 106 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _[n gur sze] ur5-ra_ 
+2. _[masz2 1(asz) gur 1(barig)] 4(ban2)# sze-ta_ u2-s,a-[ab] 
+3. _[n gur ziz2 ur5-ra] masz2# 1(barig) 4(ban2)_ u2-s,a-ab  
+4. [_ki_ *nu-ur2]-{d}utu* 
+5. [{disz}*x-x]-x-da* 
+6. [_dumu_ *x-x-a]-bu#-szu* 
+7. _[szu ba]-an#-ti_ 
+8. [a-na] _masz-gan2_-nim 
+9. _sze_-am u3# _masz2-bi_ 
+@reverse 
+1. _i3-ag2-e_ 
+2. _igi_ *i3-li2-ra-[bi]* 
+3. _igi_ *ia-ap-la#-[ah-dingir]*  
+4. _igi_ *ib-ni-{d}mar#-[tu]* 
+5. _igi_ *ab-de-ra-ah#* 
+6. _dumu_ *pu-ul-sa3-[tum]* 
+7. _igi_ *na#-bi-ir-ga#?-[x]* 
+8. [_igi_] *sin-i-tu-ra#* 
+9. [_igi_] *i3#-li2#-tab-ba!-e#* 
+
+
+&P223222 = TIM 03, 107 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _4(asz) 2(barig) 4(ban2) sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2)# sze# 
+3. 1(asz) gur# ziz2_ 2(disz) x x x x   
+4. _3(ban2) gu2-gal_ 
+5. _ki_ *nu-ur2-{d}utu* 
+6. {disz}*x-[...]*  
+7. _dumu#_ *[...]* 
+8. [a-na _masz-gan2_-nim] 
+@reverse 
+1. _sze#_-[am u3 _masz2-bi_] 
+2. [_i3-ag2-e_] 
+3. _igi_ *[...]* 
+4. _igi_ *nu-ur2#-{d}[utu]* 
+5. _igi_ *i-qa-ad-dingir* 
+
+&P223223 = TIM 03, 108 
+#atf: lang akk
+@tablet 
+@obverse 
+1. _1(u) 5(asz)#? [gur sze] ur5-ra_ 
+2. _5(asz) gur ziz2 ur5-ra_ 
+3. _1(asz) gur_-um _1(barig) 4(ban2)-ta-am3_   
+4. _masz2-bi_ u2-s,a-ab 
+5. _3(disz) 1/2(disz) gin2 ku3-babbar_ 
+6. _masz2 {d}utu:bi_ u2-s,a-ab  
+7. _ki#_ *nu-ur2-{d}utu* 
+8. [{disz}]*lu2-dingir-ra* 
+9. _szu# ba-an-ti_ 
+10. [a]-na _masz-gan2_-nim 
+11. [...]-x?-bi#? 
+@reverse 
+1. [_i3-ag2-e?_] 
+2. *[...]-x-x* 
+3. *[...]-sin*  
+4. *[...]-sin#?* 
+5. *[...]-mu-tim*  
+6. *[...]-{d}iszkur* gu
+7. *[...]-x-ba-ni-sza* 
+8. *[...]-na-s,ir* 
+
+&P223224 = TIM 03, 109 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(asz)#? gur ziz2 ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2)_ u2#-[s,a-ab] 
+3. _ki_ *nu-ur2-{d}utu* 
+4. {disz}*s,il2-li2-sin* 
+5. [_dumu_] *dingir#-lam-qi2-i* 
+6. _szu# ba#-an-ti_ 
+7. [a]-na _masz-gan2_-nim 
+8. _ziz2 u3 masz2-bi_ 
+9. _i3-ag2-e_ 
+10. e-zu-ub pi4{pi2} 
+@reverse 
+1. t,up-pi2-szu _8(asz) gur sze_  
+2. u3 _5(asz) gur ziz2_ 
+3. _igi_ *sin-pu-ut,-ra-am#* 
+4. _dumu_ *ku-zu-lu#-um#* 
+5. _igi_ *u2-tu-ia* 
+6. _igi_ *sin-i-qi2-[sza-am]* 
+7. _dumu#_ *i#-ku-[...]* 
+8. _igi_ *im-gur#-[sin]* 
+
+
+&P223225 = TIM 03, 110 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(asz) ziz2 gur ur5-ra_ 
+2. {disz}*{d}suen-ia-tum* 
+3. _1(asz) ziz2_ *sin-sze-me* 
+4. _1(asz) 1(barig) 4(ban2) masz2_ u2-s,a-ab 
+5. _ki_ *nu-ur2-{d}utu* 
+6. {disz}*sin-ia-tum* 
+7. u3# *sin-sze-me* 
+8. _[szu] ba#-an#-ti#-mesz_ 
+9. [a-na] _masz#-gan2_-nim 
+10. [_ziz2_ u3 _masz2]-bi# i3#-ag2#-<e-mesz>_ 
+@reverse 
+1. [_igi_] *i#-qa#-ad-{d}utu* 
+2. [_dumu_] *i3#-li2-i-qi2-sza-am* 
+3. [_igi_ *sin]-sze-me-e* 
+4. _dumu_ *[ha]-ba-bu* 
+5. _igi_ *x-x-da#* 
+6. _igi_ *er3-ra-qu2#-ra-ad* 
+
+
+&P223226 = TIM 03, 111 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3# 2(asz) gur ziz2# ur5-ra_ 
+# kiszib3 only on the envelope 
+2. _masz2 1(asz) gur 1(barig) 4(ban2)_ u2-s,a-ab 
+3. _4(barig) gu2-gal masz2 1(asz) gur 1(barig) 4(ban2_) 
+4. u2-s,a-ab 
+5. _ki_ *nu-ur2-{d}utu* 
+6. {disz}*sin-re-me-ni* _nar_ 
+7. _szu! ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+@reverse  
+1. _ziz2_ u3 _masz2-bi_ 
+2. _gu2-gal_ u3 _masz2-bi_ 
+3. _i3-ag2-e_
+4. _igi_ *i3-li2-a-at-ka* 
+5. _igi_ *bu-ni-lu-um* 
+6a. _igi_ *a-bu-ni*  
+6b. _igi_ *nu-ur2-{d}x* 
+# line 6b added on envelope 
+7. _igi_ *il3-ka-sin* 
+
+&P223227 = TIM 03, 112 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) gur! ziz2 u5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2)_ 
+3. u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}utu* 
+5. {disz}*ib-ni-{d}iszkur*
+# removed vertical basr from KASKAL.KUR in order that it be correctly parsed CG 
+6. _dumu_ *a-ti-illat(KASKAL.KUR)* 
+7. _szu ba#-an-ti_ 
+8. a-na# _masz-gan2_-nim 
+$ erased line 
+@reverse 
+1. <<a-na _masz-gan2_-nim>> 
+2. _ziz2_ u3 _masz2-bi_ 
+3. _i3-ag2-e_ 
+4. _igi_ *i3-li2-ra#-bi* 
+5. _igi_ *nu-ur2-dingir* _sipa_ 
+6. _igi_ *i-qa-<ad>-i3-li2* 
+7. _igi#_ *dumu#-sin* UD-ASZ2#-DI
+
+&P223228 = TIM 03, 113 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _[n(asz) 1(barig)?] 4(ban2) ziz2 ur5-ra_ 
+2. _[masz2] 1(asz) gur 1(barig) 4(ban2_) u2-s,a-ab 
+3. [_ki_] *nu-ur2-{d}utu* 
+4. [{disz}]*nu-pa-nu-um* 
+5. u3 *mu-na-ak-ka#-x* 
+6. _[szu] ba#-an-ti-mesz_ 
+7. [a]-na# _masz-gan2_-nim 
+8. _[ziz2]_ u3 _masz2#-[bi]_ 
+9. _[i3]-ag2#-e-[mesz]_ 
+@reverse 
+1. [_igi_ *u2]-s,ur-pi4{+pi2}-[x]* 
+2. _igi#_ *bi?-szu-BI?-x* 
+3. _igi#_ *sin-pu-ut,-ra-am#* 
+4. _igi#_ *u2-tu-e* 
+5. _igi#_ *im-gur-sin* 
+6. _igi#_ *pa-lu-um#* 
+7. _[igi]_ *sin-i-qi2-sza-am* 
+
+&P223229 = TIM 03, 114 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) gur ziz2 ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2)_ u2#-[s,a-ab]
+3. _ki_ *nu-ur2-{d}utu* 
+4. {disz}*sin-pu-ut,-ra-am#* 
+5. _dumu_ *ku-zu-lu-um#* 
+6. _szu ba-an-ti_ 
+7. a-na _masz-gan2_-nim# 
+8. _ziz2_ u3 _masz2-bi_ 
+9. _i3-ag2-e_ 
+@reverse 
+1. e-zu-ub# pi4# [(x)] 
+2. t,up-pi2-szu [(...)] 
+3. u3 x (x) [...] 
+4. _igi_ *x [...]* 
+5. _igi_ *[...]* 
+6. _igi_ *[...]* 
+7. _igi_ *[...]* 
+8. _igi_ *[...]* 
+
+&P223230 = TIM 03, 115 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(asz) 2(barig) 3(ban2)! sze ur5-ra_ 
+2. {disz}*en-nam-sin* 
+3. _1(asz) gur_ *sin-pu-ut,-ra-am#* 
+4. _1(asz) gur_ *e!-ri-ba#-am#!?* 
+# envelope: e-ri-ib-x-[(x)] 
+5. _1(asz) gur_ *szu-mi-i3-li2-ia#* 
+6. _1(asz) gur_ *sin-ba-bil* 
+7. _1(asz) gur_ *u-bar-rum* 
+8. _[masz2 1(asz)] gur# 1(barig)# 4(ban2)# sze#-[ta]_ 
+9. [u2-s,a-ab] 
+# envelope: [u2-s,a]-ab#  
+10. _ki#_ *[nu]-ur2#-{d}utu* 
+@reverse 
+1. _szu ba-an-ti-mesz_ 
+2. a-na _masz-gan2_-nim 
+3. _sze-am_ u3 _masz2-bi_ 
+4. _i3-ag2-e-mesz_ 
+5. _ki#_ lu2#-silim-ma-ta 
+6. u3 lu2-gi-na-ta 
+7. _szu ba-ab-te-ge26_ 
+8. _igi_ *hu-na-nu-um* 
+9. _igi_ *{d}sze-ru-um-da#-an!(RUM)* 
+10. _igi_ *i-di-ar-ni* 
+11. _igi_ *sin-ga-mil* 
+12. _igi_ *e-ri-ba-am* 
+13. _mu_ sin-a-bu-[szu] x [...] 
+# rev. 13 only on envelope 
+
+&P223231 = TIM 03, 116 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _8(asz) gur sze ur5-ra_ sza#-ma?-ia  
+2. _8(asz) gur u3 1(disz) gin2 ku3-babbar_ 
+3. i-bi-ia 
+4. _5(asz) gur_ *da-di-ia*  
+5. _6(asz) gur_ *sin-sze#-me-e#?* 
+6. _5(asz) gur_ *{d}utu-sipa* 
+7. _3(asz) gur_ *na-ah-li2-[dingir]* 
+8. _2(asz) gur_ *sin-i#-qi2-sza#-[am]* 
+9. _n(asz) gur!_ *gur-ri#-ia#* 
+$ 3 lines broken 
+@reverse 
+1. x *[...] x [(x)]* 
+2. x *[...] in#?-na-ad-nu* 
+
+&P223232 = TIM 03, 117 
+#atf: lang akk  
+@tablet 
+@obverse 
+1. _4(asz) gur ziz2 1(asz) gur sze#_ 
+2. hu-bu-ta-tum 
+3. _ki_ *nu-ur2-{d#}utu#* 
+4. {disz}*ku-ur2#-ku-du#-[um]* 
+5. _dumu#_ *mil-qum* 
+# envelope adds: u3 ARAD-[...]  
+6. _szu# ba-an-ti_ 
+7. [a-na _masz]-gan2#_-nim# 
+@reverse 
+1. [_ziz2?_] u3#? _sze_-am# 
+2. _i3#-ag2#-e#_ 
+3. _igi_ *sin-pu-ut,-ra-am* 
+4. _igi_ *{d}suen#-i#-qi2#-[sza-am]* 
+5. _igi_ *BI#?-SZU#?-LA#?-{d}utu* 
+6. _igi_ *s,il2-li2-sin* 
+
+&P223233 = TIM 03, 118 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(u) gur sze_ szu-pe2-u2-ul-tum 
+2. _ki_ *nu-ur2-{d}utu* 
+3. {disz}*i-din-{d}mi-szar* 
+4. _dumu_ *be-li2-ia* 
+5. u3 *e2-ba#-bil* 
+6. _dumu_ *sin-e-ri-ba-am* 
+7. _szu ba-an-ti-mesz_ 
+8. _szu-nigin2_-ra-am 
+9. [i-na] _bad3#_ -ri-musz{ki} 
+@reverse 
+1. [i-na-di]-nu#-u16 
+2. usz#-te-ti-qu2-ma 
+3. _1(asz) <gur>_-um _1(barig) 4(ban2) sze_ u2-s,a-ab  
+4. _igi_ *i3-li2-a-bi-ni* 
+5. _dumu_ *bu-na-gu-um* 
+6. _igi_ *sin-i-qi2-sza-am* 
+7. _dumu_ *il!(AL)-mu-sza-lim* 
+# LIM over erasure 
+8. _igi_ *u2-tu-ia* 
+9. _igi_ *s,il2-li2-{d}iszkur* 
+10. _dumu_ *im-gur-sin*  
+
+&P223234 = TIM 03, 119 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. 1(disz) sag-nita2 *sin-tab-ba-x*  
+2. mu-ni-im# 
+3. ki *inim-{d}nanna-a-[x (x)]* 
+4. lugal-a-ni-ir# 
+5. {disz}*nu-ur2-{d}utu* 
+6. dumu *ku-bi-ia* 
+7. in-szi-sa10# 
+8. sa10 til-la-ni#-sze3#
+9. ku3-babbar in-na-an#-[la2] 
+10. sza3-ga-ni i3!-du10# 
+11. inim-bi al-til 
+12. gesz-gan-na ib-ta-bal 
+13. u4#-kur2-sze3 lu2-ulu3 
+@reverse 
+1. [nu-mu-un-gi4-gi4-dam] 
+2. [mu lugal-bi] 
+3. [in-pa3-de3-esz] 
+4. igi# *[...]* 
+5. dumu# *[ma-ta-tum]* 
+6. igi# *[ba-{d}suen]* 
+7. dumu# *[hu-sza-szum]* 
+8. igi *[{d}nin-szubur-...]* 
+9. dumu *szu-{d}isz-ha-ra* 
+$ single ruling 
+10. igi *i-bi-{d}nin-szubur* 
+11. dumu *{d}tiszpak-na-s,ir*  
+$ single ruling 
+12. igi *nu#-uh#-sza-ka* dumu *su-ka-[lim?]* 
+@envelope
+@reverse 
+$ beginning broken 
+1'. dumu# *ma!-ta-tum#* 
+2'. igi# *ba-{d}suen* 
+3'. dumu# *hu-sza-szum* 
+4'. igi# *{d}nin-szubur* 
+5'. dumu# *szu-{d}isz-ha-[ra]* 
+6'. [igi] *i#-bi-{d#}[nin-szubur]* 
+$ rest broken 
+
+
+&P223235 = TIM 03, 120 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _iti szu-numun-a u4 2(u)# 5(disz)#-kam_ 
+2. a-na {disz}*nu-ur2-{d}utu* 
+3. {disz}*esz18-dar-um-mi* 
+4. {disz}*a-i3-li2-szu-u2-a* 
+5. u3 *a-ma-at-{d}suen* 
+6. _iti 3(u)-kam_ na-ad-na-szum 
+7. _szunigin 3(disz@t) geme2-hi-a_ 
+8. wa-ta-ra-tum 
+@reverse 
+1. _ugu_ *nu#!-[ur2]-{d#}utu* 
+2. {disz}*x-(x)-x* 
+3. _in#-tuku_ 
+4. _iti szu-numun-a u4 2(u) 5(disz)-kam_ 
+5. _mu_ {d}nu-musz-da d}nam-ra-at 
+ 
+
+
+&P223236 = TIM 03, 121 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. {disz}*im-gur-rum* 
+2. _dumu_ *ha-ri-ri-im* 
+3. {disz}*u2-qa-{d}utu#* _dam-gar3_ 
+4. {disz}*mu-na-[wi?-ru?]-um#?* 
+5. _dumu_ *da#?-[...]* 
+6. {disz#}*[...]* 
+7. _dumu#_ *puzur4#?-[...]* 
+@reverse 
+1. {disz}*sin-i-qi2-sza* 
+2. _dumu_ *ba-esz18-dar* 
+3. szi-bu-tum sza
+4. usz-ta-asz-ni-dingir 
+5. u3 a-sza-ti-szu 
+6. sza a-na _1/3(disz) ma-na 2(disz) gin2_ 
+7. a-sza-su-u16 a-na e-mi-ti-szu 
+8. ip-qi2-du-u16 
+9. nu-ur2-{d}utu 
+
+&P223237 = TIM 03, 122 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _3(disz) 1/2(disz) gin2 ku3-babbar 1(u) 8(disz) sze_ 
+2. _masz2_ {d}utu u2-s,a-ab 
+3. _1(asz) 2(barig) 3(ban2) gur sze ur5-ra_ 
+4. _masz2 1(asz) gur 1(barig) 4(ban2) sze-ta_ 
+5. u2-s,a-ab 
+6. _ki_ *sin-re-me-ni* 
+7. _dumu_ *nu-ur2-{d}utu* 
+8. {disz}*sin-ip-pa-asz-ra* 
+9. _dumu_ *ARAD-i3-li2-szu* 
+10. _szu# ba-an-ti_ 
+@reverse 
+1. a-na _masz-gan2_-nim 
+2. _ku3-babbar_ u3 _masz2-bi_ 
+3. _i3-la2-e_ 
+4. _sze_-am u3 _masz2-bi_ 
+5. _i3-ag2-e_ 
+$ single ruling 
+6. _igi_ *{d}utu-ga-mil* 
+7. _igi_ *ri-isz-{d}nirah* 
+8. _igi_ *nin-i-qi2-sza-am#* 
+9. _dumu#_ *t,a3-ab-s,i2-la-szu#!* 
+10. [_igi_] *sa-mu-um* 
+11. _dumu_ *bu-za-tum* 
+12. _igi#_ *sin-e-ri-ba-am!* _dumu_ *be-lum* 
+
+&P223238 = TIM 03, 123 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _4(asz) gur sze ur5-ra_ 
+2. _masz2 1(asz) gur 1(barig) 4(ban2)_ u2-s,a-ab 
+3. _ki_ *{d}utu* u3 *gi-da-nu-um#* 
+4. _dumu_ *i-bi-{d}iszkur* 
+5. {disz}*i-pi2-iq-esz18-dar* 
+6. dumu_ *lu-sza-lim* 
+7. _szu ba-an-ti#_ 
+8. a-na _masz-gan2_-nim# 
+9. _sze_-am u3 _masz2-bi_ 
+@reverse  
+1. _i3-ag2-e_
+2. _igi_ *lu2-{d}mar-tu* _dumu_ *ku-bu-tum* 
+3. _igi_ *sza-{d}mar-tu* _dumu_ *nu-ur2-ku-bi*  
+4. _igi_ *{d}suen-i-qi2-sza-am* 
+5. _dumu_ *ARAD{+di}-ia* 
+6. _igi!_ *ARAD2-{d}suen* _dub-sar#_ 
+7. _dumu_ *sza-i3#-li2#-[szu]* 
+8. _mu_ ra#-pi2#-qum#{ki} _in-dab5_ 
+
+
+&P223239 = TIM 03, 124 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. 4(disz) _ma-na# ku3-babbar_ 
+2. _ku3-babbar [nam-tab]-ba#_ a-na ba-ab _kaskal_ 
+3. _ki_ {disz}*[bur-{d}]suen#* 
+4. {disz}*dumu-i3#-li2#-szu* 
+5. _dumu_ *i-lu-szu#-nu* 
+6. _szu ba-an-ti_ 
+7. qi2-ip-ta-am 
+8. [ba]-ab-ta-am 
+$ erased line 
+9. um-mi-a-nu-um 
+10. u2-ul i-la-ma-ad 
+11. i-qi2-pa-am i-zi-ba-am-ma 
+12. a-na sza-szi-im-ma 
+13. i-la-ak u3 i-tu-ra-am-ma 
+14. _ku3 [i3-la2]-e#_ 
+@reverse 
+1. [...] 
+2. _igi_ *bi-tu-u2?-ia* 
+3. _dumu_ *puzur4-{d}nin-hur-sag-ga2*  
+4. _igi_ *bur-{d}suen*  
+5. _dumu_ *im#-gur-{d}suen*  
+6. _igi_ *{d}suen-e-ri-ba-am* 
+7. _dumu_ *isz-me-{d}suen* 
+8. _igi_ *na-bi-li2-szu*  
+9. _dumu_ *{d}nin-szubur!-ba-ni* 
+$ single ruling 
+10. iti_ {d}ma-mi-tum 
+11. _mu_ {d}suen-a-bu-szu _{gesz}gu-za in-dab_ 
+
+&P223240 = TIM 03, 125 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(disz) ma-na 1(u) 5(disz) gin2 ku3-babbar_ 
+2. _masz2_ {d}utu u2-s,a-ab 
+3. _ki_ *bur-{d}suen* 
+4. {disz}*im-gur-{d}suen* 
+5. u3 *en-nam-{d}inanna* 
+6. _dumu-mesz_ *a-na-ku-dingir-ma* 
+7. _szu ba-an-ti-mesz_ 
+8. a-na _masz-gan2_-nim 
+9. _ku3-babbar_ u3 _masz2-bi_ 
+@reverse 
+1. _i3-la2-e-mesz_ 
+2. _igi_ *a-pil-i3-li2-szu* _dumu_ *lu2!-{d}en-lil2* 
+3. _igi_ *il3-szu-ba-ni* _dumu_ *sin-a-bu-szu*  
+4. _igi_ *akszak{ki}-ma-gir* _dumu_ *na-bi-um-ma* 
+5. _igi_ *{d}utu-[x-x]* _dumu_ *{d}suen-he2-gal2* 
+6. _igi_ *su-iz-bu-um* _dumu_ *lu2-{d}en-lil2#* 
+7. _igi_ *nu-ur2-{d}utu* _dumu_ *sin-i-din-nam* 
+8. _igi_ *e-ri-ba-am*  
+9. _dumu_ *i-KI-nu?-NI-pu-szu*  
+10. _igi_ *{d}nanna-ma-an-szum2#* 
+$ single ruling 
+@left 
+1. _mu_ {d}szul-gi-na-na{ki} i-qu2-ru-u2#! 
+
+
+&P223241 = TIM 03, 126 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _8(asz) 3(barig) gur 2(disz) 1/3(disz) sila3 sze_ 
+2. {disz}*ha-ia-ab-ni-dingir* 
+3. _2(u) 3(asz) 5(ban2) zi3_ *{d}inanna-u3-ma-ka-lum* 
+4. hu-bu-ta-tum 
+5. _ki_ *il3-szu-na-s,ir* 
+6. u3 *{d}nanna-x* 
+7. _szu ba-an-ti_ 
+# one erased sign between AN and Ti 
+8. a-na _masz-gan2_-nim 
+9. _sze_-am _i3-ag2-e_ 
+@reverse 
+1. _igi_ *{d}utu-na-s,ir* _szagina_ 
+2. _dumu_ *{d}suen-i-qi2-sza-am* 
+3. _igi_ *a-bu#!-um#-dingir* 
+4. _dumu_ *{d}suen-e-ri-ba-am* 
+5. _igi_ *{d}suen-ga-mil* 
+6. _dumu_ *ka-na-szum#* 
+7. _igi_ *a-li2-ba-[ni]-szu* 
+8. _dumu_ *ba-{d}suen* 
+@left 
+1. _mu_ ra-pi2-qum _ba-gul_ 
+@seal 1 
+1. *a-bu-um-dingir* 
+2. _dumu_ *{d}suen-e-ri-ba-am* 
+
+
+&P223242 = TIM 03, 127 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. 1(gesz2) 2(u) szu-szi _gur sze_ 
+2. hu-bu-ta-tum 
+3. _ki_ *il3-szu-na-s,ir* 
+4. u3 *{d}nanna?-x* 
+5. {disz}*sze-li-bu-um* 
+6. _dumu_ *ma-szum* 
+7. _szu ba-an-ti_ 
+8. a-na _masz-gan2_-nim 
+9. sze-a-am _i3-ag2-e_ 
+@reverse 
+1. _igi_ *im#-gu-ia* 
+2. _dumu_ *nu-ri-ia* 
+3. {disz}*i-pi2-iq-esz18-dar* 
+4. _dumu_ *i3-li2-pi-szu-u2* 
+5. {disz}*sin-e-ri-ba-am* 
+6. _dumu_ *{d}nanna-ma-an-szum2* 
+7. {disz}*im-gur-{d}suen* 
+8. _dumu_ *{d}suen-a-bu-um* 
+9. *{d}e#?-bi-bu-um* 
+10. _dumu_ *im-gur-rum* 
+11. _mu alan tug2-la2-ma?_ sza da-du-sza 
+
+
+&P223243 = TIM 03, 128 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _4(disz) 5(ban2) sze ur5-ra 
+2. _1(asz) gur 1(barig) 4(ban2) sze-ta-am3_ 
+3. _masz2_ u2-s,a-ab 
+4. _ki_ *nu-ur2-{d}nin-szubur* 
+5. {disz}*ARAD-i3-li2-szu* 
+6. _dumu_ *bi-il-li-ia* 
+@reverse 
+1. _szu ba-an-ti_ 
+2. a-na _iti_ sza-ad-du-ut-tim 
+3. sze-a-am u3 _masz2-bi i3-ag2#-e_  
+4. _igi_ *ARAD-i3-li2-szu* _dumu_ *ib-bi-{d}nisaba?* 
+5. _igi_ *pu-tum* dumu *e-tel-ku-bi* 
+6. _igi_ *am-mu-ra-pi2* dumu *i3-li2-sza?-ru#-um#?*
+7. _igi_ *nu-ri-ia* dumu *szu-mi-i3-li2-szu* 
+8. _iti_ ki-in-kum  
+9. _mu abul_ ki-kur-ri-im 
+@seal 1 
+1. *pu-tu-um*
+2. _dumu_ *e-tel-ku-bi* 
+3. *_ARAD_ _sza_ [x (x) x]* 
+@seal 2 
+1. *nu-ri-ia* 
+2. _dumu_ *szu-mi-i3-li2-szu* 
+3. *[...]* 
+
+&P223244 = TIM 03, 129 
+#atf: lang akk 
+@tablet 
+@obverse 
+$ (obv. 1-7 are from the envelope) 
+1. _kiszib3 1(u) gin2 ku3#-[babbar]_ 
+2. _masz2_ {d}[utu] 
+3. u2-s,a-ab#
+4. _ki_ *{d}suen-ba-[ni]* 
+5. {disz}*{d}utu-dingir* 
+6. _szu ba-an-ti_ 
+7. a-na _masz-gan2_-nim 
+8. _ku3-babbar_ [u3 _masz2]-bi#_ 
+9. _i3-la2#-e#_ 
+@reverse 
+1. _igi_ *il3-szu-ba-ni* 
+2. _dumu_ *i3-li2-e#-ri#-[ba]-am#* 
+3. _igi_ *a-na-x-[...]*   
+4. _dumu_ *i-bi-ia*  
+5. _igi_ *i3-li2-e-ri-ba-am* 
+6. _dumu_ *ARAD2!-{d}utu*  
+7. _igi_ *a-ga#?-ma?-[...]* 
+8. [_igi_] *x-[...]* 
+9. _dumu#?_ *i3-li2-x-[...]* 
+10. u3 *ab-bi#?-x-[...]*
+
+
+&P223245 = TIM 03, 130 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _kiszib3 2/3(disz) ma-na 8(disz) gin2 ku3#-babbar#_ 
+# kiszib3 only on the envelope 
+2. _masz2_ {d}utu 
+3. u2-s,a-ab 
+4. _ki_ *{d}utu* 
+5. *{d}suen-e-ri-isz#* 
+6. u3 *nu-ri-ia* 
+7. _szu ba-an-ti-mesz_ 
+8. a-na _masz-gan2_-nim 
+9. _ku3-babbar_ u3 _masz2-bi_ 
+10. _i3-la2-e_ 
+@reverse 
+1. _igi_ *be-di-dingir* 
+2. _dumu_ *dingir-qa-ap* 
+3. _igi_ *a-pil-sin* 
+4. _dumu_ *a-bi-ku-ru!-ub#*
+5. _igi_ *a-mur-na-ar-bi-szu#* 
+6. _dumu_ *t,a-ar-ra-da* 
+7. *pu-zur#-{[d]}suen* 
+8. *en-ni-in-sin* 
+9. _igi_ *be-la#-nu-um* 
+10. _dumu_ *sza-ma-ia* 
+11. _igi_ *sin-sze-me* 
+12. _dumu_ *pa-ak-[nu-um]*
+# CG eliminates "not given" from the following line 
+13. *...* _dumu_ *bu-ri-ia*
+$ (envelope adds:)
+14. _igi_ *{d}utu-be-el-i3-li2#* _dub-sar_ 
+@seal 1 
+1. *be-di-dingir* 
+2. _dumu_ *dingir-qa-ap* 
+
+&P223246 = TIM 03, 131 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2/3(disz) gin2 ku3-babbar_ 
+2. _masz2 u2-s,a-ab 
+3. _ki_ *{d}utu* 
+4. {disz}*za-ar-ra-mu-um* 
+5. _szu ba-an-ti_ 
+@reverse 
+1. a-na _masz-gan2_-nim 
+2. _ku3-babbar_ u3 _masz2-bi_ 
+3. _i3-la2-e_ 
+4. _igi_ *sa-li-lum* 
+5. _igi_ *szu-mu-li-s,i2* 
+
+&P223247 = TIM 03, 132 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(u)# 2(asz)#? gin2# igi 6(disz)-gal2-la#? ku3-babbar_  
+2. a-na u4#? NI# x [(x)] 
+3. _ki_ *i3-li2-illat#-ti#* 
+4. _dumu_ *x [...]* 
+5. i-na x [...] 
+6. _szu ba#-an#-[ti]_ 
+7. a-na _masz#-[gan2_-nim] 
+8. _ku3-babbar_ [u3 _masz2]-bi#_ 
+9. i-x-[...] 
+10. _igi_ *{d#}x-[...]* 
+@reverse 
+1. _dumu_ *x-x-x-um#?* 
+2. _igi_ *mu-na-wi-rum* 
+3. _dumu_ *a-pa-al-i3-[li2]* 
+$ double ruling 
+
+&P223248 = TIM 03, 133 
+#atf: lang akk  
+@tablet 
+@obverse 
+1. _2(disz) gin2 ku3 babbar 1(asz) gur sze#_ 
+2. hu-<bu>-ta-tu-um 
+3. _ki_ *{d}suen-i-din-nam* 
+4. *i3-li2-e-ra-ah* 
+5. _dumu_ *szar-ri-ia* 
+6. _szu ba-an-ti_ 
+7. _igi_ *a-hu-ni* 
+8. _dumu_ *szar-ru-um-{d}iszkur* 
+@reverse 
+1. _igi_ *ia-ak-nu-ta-ru* 
+2. _dumu_ *za-bu-um* 
+3. _igi_ *ia-usz-ku-ru-um* 
+4. _dumu_ *ku-bi-na-da* 
+5. _igi_ *i3-li2-s,i2-li* 
+6. _dumu_ *su2-ra-ru-um* 
+7. _iti du6-ku3_ 
+8. _mu bad3 gan2-KAB{ki} er3-ra-i-mi-ti _mu-na-dim2_ 
+@left 
+1. _igi_ *i3-li2-i-din-nam* dumu *be-e-tum* 
+@seal 1 
+1. *i3-li2-e-ra-ah* 
+2. _dumu_ *szar-ri-ia* 
+
+
+&P223249 = TIM 03, 134 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(barig) sze ur5-ra_ 
+2. _masz2-bi 2(barig) gur_-um!?
+3. _ki_ *iq-bi-i3-li2* 
+4. *ra-si-a* 
+5. _szu ba-an-ti_ 
+@reverse 
+1. _igi_ *i-din-{d}suen* _lu2 ku5-ku5_ 
+2. _igi_ *puzur4-ku-bi* 
+$ blank space 
+3. _mu_ su-mu-a-tar _ba-usz2_ 
+
+&P223250 = TIM 03, 135 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(disz) 1/3(disz) gin2 ku3-babbar_ 
+2. _sa10 udu-nita2-hi-a_ 
+3. _ki_ *a-wi-li-ia* 
+4. *{d}u2#-t,ul-{d}ma-mi* 
+5. _dumu_ *er3-ra-ga-sze-er* 
+6. _szu ba-an-ti_ 
+7. i-na _kar_ in-nam-ma!-ru_ 
+8. i-na _iti ab-e3_  
+# envelope apparently reads: -ab-i3-li2 
+@reverse 
+1. _ku3-babbar i3-la2-e_ 
+2. _igi_ *im-me-er-i3-li2* _dumu_ *{d}utu-sipa#* 
+3. _igi_ *i3-li2-szu-a-bi* _dumu_ *na-bi-i3-li2-szu* 
+4. _igi_ *SIG-esz18-dar* _dumu_ *mu-tum-dingir*  
+5. _igi_ *{d}asznan-ta-ia-ar* _dumu_ *{d}suen-sze-mi* 
+6. _igi_ *ap-lum* dumu *s,il2-<li2>-{d}nin-urta* 
+7. _iti NE-NE-gar _u4 7(disz)_ 
+8. _mu_ zimbir{ki} iri ul {d}utu-ke4#_ 
+@seal 1 
+1. *u2-t,ul-{d}ma-mi* 
+2. _dumu_ *er3-ra-ga-sze-er* 
+3. _ARAD_ *{d}nergal* 
+@seal 2 
+1. *{d}asznan-ta-ia-ar* 
+2. _dumu_ *{d}suen-[sze-mi]* 
+3. _ARAD_ *{d}nisaba* *{d}asznan*
+4. u3 *{d}na-bi-um* 
+@seal 3 
+1. *im-mi-ir-i3-li2* 
+2. _dumu_ *{d}utu-[sipa]*
+# following line modified by CG to make name read Iramurrim together with Reschid 
+3. _*ARAD-{d}mar-[tu]*_ 
+@seal 4 
+1. [...] 
+2. _dumu_ *{d}[x x]* 
+3. _ARAD_ *{d}en-[ki]* 
+4. u3 *{d}dam#-gal-nun* 
+
+&P223251 = TIM 03, 136 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _6(disz) gin2 ku3-babbar_ 
+2. _masz2-bi 1(disz) gin2 1(disz) sze ku3-babbar_  
+3. _szu ti-a u4 buru14#_ 
+4. _ki_ *la-ma-nu-um* 
+5. *szu-mu-um-li-ib-szi* 
+6. _dumu_ *s,i-li2-{d}suen* 
+7. _szu ba-an-ti_ 
+@reverse 
+1. _iti_ [...] 
+2. _ku3-[babbar i3-la2]-e#_ 
+3. _igi_ *x [...]* 
+4. _igi_ *x [...]* 
+5. _igi_ *im#-x-nu#?-um* 
+6. _dumu_ *[x]-ga#?-ru#-um#* 
+7. _mu_ x-{d?}x-x mu#? NI# pa3#-[x] 
+@seal 1 
+1. *szu-mu-um-li-ib-szi* 
+2. _dumu_ *s,i#-li2-{d}suen* 
+
+&P223252 = TIM 03, 137 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. 1(u)#? [...] 
+2. _masz2#?_ [...] 
+3. *[...]* 
+4. x *[...]* 
+5. [...] 
+6. _1(asz) gur#?_ [...]-x-lu-um 
+7. _2(disz) 1/2(disz)_ x [x] a [...] 
+8. _szunigin 1(u) 2(disz) 1/2(disz) gin ku3-babbar#_ 
+9. _szunigin 6(asz) gur sze_ 
+@reverse 
+1. la-bi-ir-tum 
+2. sza t,up-pa-tu-szu-nu 
+3. i-na AH-BI-SIN 
+4. la ru-t,u2-ba-am 
+ 
+
+
+&P223253 = TIM 03, 138 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. [n] gur! ku3-babbar 
+2. masz2# {d}utu 
+3. {disz}*{d}utu-dingir* 
+4. {disz}*nu-ur2-{d#}ku#-bi* 
+5. szu# ba-an-ti-mesz# 
+@reverse 
+1. iti? 3(disz) u4 IN 
+
+&P223254 = TIM 03, 139 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. [...] 
+2. masz2 gi-na dah-dam#? 
+3. ki *{d}utu-la-ma-su2!* 
+4. {disz}*mu-na-wi-ir-tum* 
+5. u3 *be-li3-qar-ra-ad#*
+6. szu ba-an-ti 
+@reverse 
+1. u4 buru14-sze3! 
+2. ku3-babbar u4 masz2-bi 
+3. i3-la2-e 
+4. igi# *{d?}kal#-kal#-illat-su2* a-zu 
+5. igi# *szagina#-gal#* 
+6. dumu#? *{d#}utu#-nu-ri* 
+7. igi#? *{d}suen#-nu#?-[x]-x-ar* 
+
+&P223255 = TIM 03, 140 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _[n] ma-na 4(disz) 1/3(disz) gin2 6(disz) sze ku3-babbar_ 
+2. _masz2# nu-ub-tuku_ 
+3. _ku3#_ {d}utu 
+4. _ki_ *{d}utu* 
+5. {disz}*tab-ni-esz18-dar* 
+6. _szu ba-an-ti_ 
+7. _mu-DU u4-buru14-sze3_ 
+8. _ku3 i3-la2-e_ 
+9. i-na li-bi _ku3-babbar-szu_ 
+10. an-ni-im 
+11. _7(asz) sze gur# 1(u) 3(disz) 1/3(disz) gin2 ku3-babbar_ 
+12. sza a-na te-er-tim 
+@reverse 
+1. isz#-sza-ak-nu-u2 
+2. i-na li-bi-im sze-im_  
+3. u3 _ku3-babbar_ _an-ni-im_  
+4. sze-um-ma s,i2-ib-tam ir-szi-i 
+5. _igi_ *ARAD-{d}nin-szubur* 
+6. _igi_ *e-ri-ba-am* 
+7. [_igi_] *ri#-sza!-tum* 
+8. [_igi_] *{d}utu-na-s,ir* 
+9. _iti# ziz2-a_ 
+10. _mu# i7_ a-pil-sin _he2-gal2_ 
+
+&P223256 = TIM 03, 141 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. 4(asz) sze gur# 
+2. nig2 u3-rum {d}mar-tu 
+3. ki *{d}mar-tu* 
+4. {disz}*al-la-ta-a-a-ar!(IGI)* 
+5. lu2 gir2-su{ki#}
+6. szu ba-an-ti# 
+7. iti sig4!(MURGU2)-[a] 
+8. sze i3-ag2-e# 
+9. igi! *{d}suen-ma-gir!(HA)* 
+@reverse 
+1. igi *x x x x x* 
+2. igi *i3-li2-ma-a-bi#* 
+3. igi *bur-ia* 
+4. igi *a-pil-i3-li2-szu* 
+5. igi *{d}suen-i-qi2-sza-am#* 
+6. kiszib3# *lu2-inim-ma-bi-mesz* 
+7. iti {gesz}apin-du8-a 
+8. mu i7 sikil-la mu-<un-ba>-al 
+@seal 1 
+1. *{d}suen!(EN)-i3-[qi2]-sza-am* 
+2. dumu *{d}utu-na-s,i2-ir* 
+3. ARAD *{d}KA#-[x x]* 
+@envelope
+$ beginning broken 
+1'. [igi *{d}suen]-i#-qi2-sza!-am* 
+2'. [igi *i3]-li2-ma#-a-bi* 
+3'. [igi] *x x x x x*
+4'. igi *{d}suen-ga-mil# x x* 
+5'. *[...]* 
+6'. *[...]* 
+7'. [igi] *du11-ga-zi-da* 
+8'. [igi] *x x [...]* 
+$ rest broken 
+
+&P223257 = TIM 03, 142 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. 2(asz) 1(barig) 3(ban2) 2(disz) 2/3(disz) sila3 sze gur 
+2. 1(disz) gin2 1(disz) sze ku3-babbar 
+3. nig2-gur11!(UL) {d}nergal 
+4. ki!(DI) *ni-id-na-tim* 
+5. {disz}*ur-du-ku3* 
+6. szu# ba-an-ti 
+7. iti sig4!(MURGU2)-a 
+8. sze i3-ag2-e 
+9. u3 ku3 i3-la2-e 
+10. {disz}*ur-du-ku6* 
+@reverse 
+1. u2-gu ba-an-du11 
+2. {disz}*esz18-dar-dingir* 
+3. sze i3-ag2-e 
+4. u3 ku3 i3-la2-e 
+5. igi *a-gu-u2-a* 
+6. igi *{d}suen-nu-ur2-i3-li2* 
+7. igi *dumu-{d}mar-tu* 
+8. iti ku3 ziz2-a 
+9. mu iri?{ki!}-ASZ-DI MIN sze3? in-dab5 
+
+
+&P223258 = TIM 03, 143 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. 1(asz) 2(ban2) sze gur 
+2. 1/3(disz) gin2 1(u) sze ku3-babbar 
+3. ki *ip-qu2-{d}iszkur* 
+4. {disz}*hi-sza!-tum* dumu *i3-li2-i-din!-nam* 
+5. szu ba-an-ti 
+6. iti sig4!(MURGU2)-a 
+7. sze i3-ag2-e 
+8. ku3 i3-la2-e 
+@reverse  
+1. igi *{d}suen-mu-sza-lim* 
+2. igi *{d}suen-dam-gar3-re* 
+3. igi *ARAD-{d}nin-szubur* 
+4. iti {gesz}apin-du8-a 
+5. mu ugnim(|SU.LU.UB2.KI.GAR|) unu{ki} 
+6. u3 ARAD-de3-ne 
+7. lugal unu{ki} 
+8. {gesz}tukul ba-an-sig3 
+
+&P133996 = TIM 03, 144 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(disz) gin2 ku3-babbar_ 
+2. _iti-da u4 5(disz)-kam_ 
+3. *szi-ip-ra-am* 
+4. *i-pi2-isz* 
+5. _dumu_ *nu-u2-ma* 
+6. li-ba-szu 
+7. x x x x 
+@reverse 
+1. ka x x x 
+2. i-x-ba-al 
+3. _ki_ *{d}suen-i-x* 
+4. 1(disz) za-x-x-x-x-x-ia 
+5. _szu ba-ti#-esz_ 
+6. _igi_ *nig2-{d}suen* 
+7. _igi_ *PI-di-szi-da-ni* 
+@envelope 
+@obverse 
+$ broken 
+@reverse 
+$ beginning broken 
+1'. AN [...] 
+2'. AN x [...] 
+3'. _mu_ bi2-[...] 
+
+
+&P133997 = TIM 03, 145 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. [...] 
+2'. x [...] 
+3'. [...] 
+4'. ki *SI-A-[a-ta]* 
+5'. da-da-ni# 
+6'. igi *a-gu-a* 
+7'. igi *za-hum* 
+8'. igi *a-da-lal3* 
+9'. dumu-ni-me-esz2 
+10'. igi *ga-ri-dingir* 
+11. [igi] *sza-lim-dingir* 
+12'. igi *sipa-si#?-in* 
+13'. igi *zu-la-lum* 
+14'. igi *be-li2-sipa* szu-i 
+15'. igi *ur-abzu* ha-za-num2 
+16'. igi *i-szar-pa2-dan* simug 
+17'. igi *bi-kum* dumu ha-za-num2# 
+18'. igi *puzur4-x-[...]* 
+19'. lu2 ki inim-ma#-bi#-me-esz2 
+20. [...] 
+@seal 1 
+1. *ur-ab#-[zu?]* 
+2. dumu *ur-li#?* 
+
+
+&P133998 = TIM 03, 146 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. 1(asz) sze gur 
+2. a? gin2 ku3#-babbar 
+3. ur5-sze3# 
+4. ki *SI-A-a-ta* 
+5. szu-{d}dam-ki 
+@reverse 
+1. szu ba-ti 
+2. a#-szu#-mi# ki#-szu#-bi# a-mur?-dingir#? ARAD2#? [...] 
+# < BDTNS 
+$ blank space 
+3. mu {d}szu-[{d}suen lugal] uri5{ki}-[ma-ke4] e2 {d}szara2 umma{ki}-ka mu#-x-x 
+# possibly misread 
+
+
+&P133999 = TIM 03, 147 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. 1(u) sze gur 
+2. ur5#-sze3# masz2 ga2#?-ga2  
+3. ki *SI-A-a-ta* 
+4. i-di3-e2-a 
+5. szu ba-ti 
+@reverse 
+1. igi *a-ba-a-szu* 
+2. igi *dingir-ba-ni* dumu *e-la-ak-nu-id!(DA)* 
+3. igi *a-bu-um-dingir* dumu *ku-bu-nu-um* 
+4. mu en {d}inanna unu{ki} masz2-e i3-pa3 
+
+
+&P134000 = TIM 03, 148 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. 2(disz) gin2 ku3-babbar 
+2. ur5-sze3 
+3. ki *SI-A-a-ta* 
+4. *a-a-i3-li2-su* dumu *bil-la* ugula-gesz2-da# 
+5. szu ba-ti 
+@reverse 
+1. igi *u2-tul2-ma-ma* 
+2. igi *a-bi2-du10-ab#* 
+3. igi *er3-ra-ba-ni* simug 
+4. igi *ip-qu2-sza* 
+5. igi *tu-ra-am-i3-li2* bahar2 
+6. dumu# *ba-ra-um* 
+7. [mu] en eridu{ki} ba-hun 
+
+
+&P134001 = TIM 03, 149 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1/2(disz) ma-na ku3-babbar_ 
+2. _ur5-sze3#_ 
+3. _ki_ *SI-A-a-ta* 
+4. *puzur4-ha-ia3*  
+5. *szu#-{d}en-lil2* _nu-banda3_ 
+6. _szu# ba-ti_ 
+7. isz-du _e2-duru5_-im 
+@reverse 
+1a. _ki_# *a2-bi2-la-num2* 
+1b. [a]-di3 pa2-ti-im#  
+# line 1b added on envelope
+2. _nam 1(gesz2) szuku |MASZ.EN.GAG|_ 
+3. en-um-i3-li2  
+4. isz-du pa2-ti-im# 
+5. a-di3 _e-du6-la_  
+6. _szuku-bi 2(bur3)-am3_ 
+7. _nam# 1(gesz2)) ku-ru-da  
+8. isz-du pa2-ti-im#! 
+9. a-di3 _e-du6-la_ 
+10. _szuku 1(bur3)-am3_ 
+11. _nam 1(gesz2_) i-din-er3#!-[ra]  
+@left 
+1. puzur4-ha#-ia3# [...] 
+2. SI-A-a _in#-[...]_ 
+@envelope 
+1'. [...]-la#? 
+2'. [...]-ti 
+3'. [...]-i3-li2 
+
+&P134002 = TIM 03, 150 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _3(disz) gin2 igi 4(disz)-gal2_ 
+2. _1/3(disz) gin2 masz2 ku3-babbar_ 
+3. _ki_ *SI-A-a-ta* 
+4. *i-di3-lum* 
+5. _szu ba-ti_ 
+6. _igi_ *dingir-e2* 
+7. _igi_ *ur-ma-ma* 
+8. _igi_ *i3-li2-asz2-ra-ni* 
+9. _igi_ *a-ba-a* 
+10. _igi_ *zu-la-lum* 
+11. _igi_ *dingir-e-ri-isz* 
+@reverse 
+1. _igi_ *dingir-ab-kal* 
+2. _igi_ *ku-ni-s,um* 
+3. _igi_ *{d}er3-ra-tug2-dul3* 
+4. _szunigin 9(disz) abba2-me_ 
+5. szu-ut ma-ha-ar-szu-nu 
+6. i-di3-lum 
+7. _mu lugal-bi_ 
+8. _in-pa2_ 
+9. a-na _iti gu4-si!(GAN2)-su_ 
+ 
+
+
+&P134003 = TIM 03, 151 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. 4(asz) sze gur 
+2. *a-bu-ma* nu-banda3 
+3. 1(asz)# wa-wa-ti 
+4. [n] *dingir-ba-ni* dumu 
+5. [n] *ba-ab-ba-e* 
+6. [n] *dingir-sipa* 
+@reverse 
+1. [n] *a-wi-lum* 
+2. [n] *ba-ba* 
+$ blank space 
+3. szunigin 6(asz) 1(barig) sze gur 
+4. ur5-sze3 ki *SI-A-a-ta* 
+5. ba-zi 
+6. mu en eridu{ki} ba-hun# 
+ 
+
+
+&P223259 = TIM 03, 152 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _2(disz) gin2 ku3-babbar_ 
+2. _masz2-bi_ ma-ka-lum 
+3. _ku3-babbar_ {d}suen 
+4. _ki#_ *{d}suen* 
+5. {disz}*hu-mu-rum* 
+6. _szu ba-an-ti_ 
+7. _u4 buru14-sze3_ 
+8. _ku3 i3-la2-e_ 
+@reverse  
+1. {disz}(x x) *a#-li2-a-hu-ia* _geme2_   
+2. _igi_ *usz#-ta-asz-ni-dingir* 
+3. _igi_ *i-bi-{d}sza-ha-an* 
+4. _igi_ *sa-da <<x-x>>*
+# last 2 signs are apparently erased
+5. _igi_ *be-la-nu-um* _dub-sar_ 
+$ single ruling 
+6. _iti gan-gan-e3_ 
+7. _mu bad3_ IM{ki} 
+
+&P223260 = TIM 03, 153 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. 8(disz) gin2 ku3-babbar masz2 nu-tuku 
+2. ku3-babbar ma2-kam 
+3. ugu *{d}suen-sze-ni*  
+4. ugu *ARAD2-{d}utu* 
+5. u3 ugu *{d}suen-ma-gi4-ir* 
+6. {disz}*{d}nanna* 
+7. _i-szu-u2_
+@reverse 
+1. igi *a-li2-illat-ti#* 
+2. igi *tab!(BAR)-ba-u2-um* 
+3. igi *ib!(UR)-ni-ia* 
+4. igi *i3-li2-ra-bi* dub-sar 
+$ blank space 
+5. iti NE-NE-gar 
+6. mu us2-sa e-<igi>-hur-sag-ga2 ba-du3 
+
+
+&P223261 = TIM 03, 154 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _6(asz) gur sze_ 
+2. i-na-qa-ti *nu-ur2-dingir* 
+3. isz-tu i-na-an-na  
+4. _u4 1(u)-kam_ sze-a-am 
+5. u2-ul ub-lam-ma 
+6. sze-a-am u3 _masz2-bi_ 
+7. _i3-ag2-e_ 
+8. _sze gur10_ 
+9. sza# a-na bi-ru-ur-tum 
+@reverse 
+1. i-di-nu 
+2. _igi_ *an-nu-um-pi4-{d}utu* 
+3. _dumu_ *hu-nu-bu-um* 
+4. {disz}*a-hu-wa-qar* 
+5. _dumu_ *{d}suen-il#-la-at#* 
+6. u3#? *be-la-nu-um* 
+$ single ruling 
+7. _iti/mu#?_ [...] 
+8. _sze_ si#? la ta x x 
+
+&P223262 = TIM 03, 155 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. 8(asz) zu2-lum gur#  
+2. nig2-gal2-la {gesz}kiri6 
+3. ugu2 *i3-li2-e-mu-qi2#* 
+4. dumu *li-lum-dan* 
+5. *szu-{d}nin-hur-sag-ga2* 
+6. bi2-in-tuku 
+$ seal impression 
+@reverse 
+1. igi *i3-li2-i-din-na-am#!* 
+2. dumu *ur-{d}szul-pa-e3* 
+3. igi *a-we-el-esz18-dar* 
+4. dumu *a#-hi-x-la* 
+5. igi *i3-li2-ba-ni* 
+6. dumu# *nu-ur2-{d}suen* 
+7. igi *ba-al-t,u2-sza-hu* 
+8. dumu *[x-x]-x-x* di-ku5 
+9. [igi *{d}suen]-e#-ri-ba#-am#* dub#-sar# 
+$ blank space 
+10. [mu x] x nu ku3!-sig17 
+11. [...]-ra e2# na [...] 
+@seal 1 
+1. *i3-li2-e-mu-qi2* 
+2. dumu *li-lum-dan* 
+
+&P223263 = TIM 03, 156 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _1(disz) 1/2(disz) gin2 ku3-babbar_ 
+2. _ki_ *inim-{d}nanna-i3-ge-en* 
+3. {disz}*bu-lu-um* 
+4. _dumu_ *nu-ur2-{d}gibil6* 
+5. _iti_ {d}ma-mi-tum 
+6. _szu ba-an-ti_ 
+7. i-na sza-la-mi-szu 
+8. _ku3-babbar i3-la2-e_ 
+@reverse 
+1. _igi_ *nu-ur2-{d}utu* 
+2. _dumu_ *na-ra-am-i3-li2-szu*  
+3. _igi_ *{d}nanna-ma-an-szum2* 
+4. _dumu_ *il3-szu-ba-ni* 
+$ blank space 
+5. _mu i7_ sin-mu-ba-li3-it, 
+
+&P223264 = TIM 03, 157 
+#atf: lang sux 
+@tablet 
+@obverse 
+1. [n] gin2# ku3-babbar  
+2. [masz2 gi]-na# dah-he2-dam 
+3. [ki *x x] x-{d#}utu* 
+4. *[x x]-li#-tum* 
+5. *[x] ARAD-{d}mar-tu* 
+6. *[x] di#-ni#?-di-{d}suen* 
+7. [szu ba-an-ti] 
+8. u4 buru14#?-[sze3] 
+9. ku3-bi u3 masz2-bi 
+10. i3-la2-e 
+@reverse 
+1. igi *{d}utu-du-um#-[qi2]* 
+2. igi *mu-pa-hi-rum*  
+3. igi *{d}utu-ba-ni* 
+4. igi *{d}suen-sipa#* dub#-sar 
+5. igi *sin-ub#-lam#* 
+@left 
+1. iti szu-numun-a u4#? [n-kam] 
+2. mu {<d>}suen? al? di [x] 
+
+
