@@ -1,7 +1,7 @@
 # sna-mesopotamia
 ## Social Network Analysis and prosopography applied to an Old Babylonian private archive.
 
-This repository contains four scripts I developed to retrieve and treat prosopographical information from the documents of the Old Babylonian set of documents, the so-called archive of Nūr-Šamaš, with the goal of disambiguating personal names and identifications. 
+This repository contains four scripts that retrieve and treat prosopographical information from the documents of the Old Babylonian set of documents, the so-called archive of Nūr-Šamaš, with the goal of disambiguating personal names and identifications. 
 
 If you want to run it in your machine, create a folder to receive the project. In that folder, create subfolders "Python_Notebooks", "Processing_Input", and "Processing_Output". 
 
